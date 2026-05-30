@@ -1,0 +1,3 @@
+[[eriksenTakingDesignGames2014]] describes that the role of **"gamemaster"** is often taken by the PD researchers. In [[eriksenTakingDesignGames2014]] a person from the municipality, not the PD researcher, introduces the [[UrbanTransition Game]]. Eriksen describes that one important strategy for **equalizing power relations** is to find ways for other humans than PD researches to obtain ownership and confidence in taking the role of "gamemaster". (Here achieved by co-designing the game.)
+
+Part of [[Equalizing Power Relations in Participatory Design]]

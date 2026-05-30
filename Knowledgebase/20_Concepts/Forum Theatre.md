@@ -1,0 +1,1 @@
+[[brandtDesigningExploratoryDesign2006]] describes it as a group of actors play a piece of theatre. The audience is asked to suggest changes in play, after a debate the play with incorporated changes is performed again. 

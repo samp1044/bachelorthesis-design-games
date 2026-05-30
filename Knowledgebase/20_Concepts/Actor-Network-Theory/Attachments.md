@@ -1,0 +1,1 @@
+Part of [[Actor-Network-Theory]]. In [[eriksenTakingDesignGames2014]] described as professional experience a participant might bring and thus grant this participant power. [[Equalizing Power Relations in Participatory Design]]

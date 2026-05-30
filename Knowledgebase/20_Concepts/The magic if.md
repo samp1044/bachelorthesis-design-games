@@ -1,0 +1,1 @@
+[[brandtDesigningExploratoryDesign2006]] describes it as when creating a role the actress has to ask herself questions like "what if the character was in this or this situation - how would she react?". Brandt argues that in design project it is easy to ask similar questions for instance focusing on user experience or when exploring user contexts.

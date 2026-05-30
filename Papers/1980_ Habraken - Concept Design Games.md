@@ -1,0 +1,2 @@
+Aim of improving the design communities working on buildings and urban environments. 
+Games were in his study not part of real design projects but a mean to understand design actions in a restricted environment. 
