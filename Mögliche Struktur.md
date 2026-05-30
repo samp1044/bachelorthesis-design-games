@@ -37,8 +37,10 @@ Aus Forschungfrage:
 - Einsatz in unterschiedlichen Domänen
 
 #### Struktur
+What is a Game?
 
 Design Games Erklärung/Geschichte?
+Warum Design Games?
 Zusammenfassende Beschreibung von Design Games
 - Kategorien
 - Mechaniken

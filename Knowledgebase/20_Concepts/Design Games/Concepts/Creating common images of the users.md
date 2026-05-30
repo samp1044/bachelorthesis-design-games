@@ -1,4 +1,4 @@
-[[brandtDesigningExploratoryDesign2006]] compares [[User Game]] with the [[Persona]] approach. Both aim to create a common image of the user.
+[[brandtDesigningExploratoryDesign2006]] compares [[User Game]] with the [[Persona]] approach. Both aim to create a common image of the user. For emphasizing with the users to design for. 
 
 Why [[User Game]] is a better approach
 - Designers collaboratively work face-to-face with users to design for

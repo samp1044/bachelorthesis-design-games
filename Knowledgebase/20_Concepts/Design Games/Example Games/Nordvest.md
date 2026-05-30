@@ -11,7 +11,7 @@ Created to learn about local peoples likes, dislikes, aspirations, etc. in order
 - Passerbys (Players)
 #### Materials
 - 70 images from the region
-- A big dice with 6 questions, e.g. "If you should image for Nordvest what image(s) would you choose?" (Element of [[Change]])
+- A big dice with 6 questions, e.g. "If you should image for Nordvest what image(s) would you choose?" (Element of [[Chance]])
 
 The images were placed face-down. Players were people passing by accident. Each player uncovers 10 images and then rolls the dice for a question. The images should then be used as inspiration and help to answer the question. 
 

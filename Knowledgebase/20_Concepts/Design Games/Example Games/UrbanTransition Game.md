@@ -1,7 +1,6 @@
 ---
 Domain: Urbanplanning
 ---
-
 [[eriksenTakingDesignGames2014]]
 ### Game Material
 #### Standard material
@@ -25,3 +24,12 @@ The game is played in rounds. One person seems to be in Charge of a Controversy 
 - [[Timers]]
 #### Roles
 - [[Challenge - Gamemasters]]
+
+#### Category (Myself)
+- Mainly [[Negotiation and Work-flow Oriented Games]] 
+	- Focus on real world concepts
+	- Negotiation of interests
+	- Democracy in Design through [[Rules]]
+- Secondly [[Concept Design Games]] 
+	- Use of strict [[Rules]] a
+	- Use of [[Pieces]] and [[Game Board]]

@@ -1,9 +1,13 @@
-[[brandtDesigningExploratoryDesign2006]] mentions three [[Exploratory Design Games]] examples that are aimed at creating future visions. 
+[[brandtDesigningExploratoryDesign2006]] Aim is to create future visions by structured participation. 
 
-Games
+3 Games / Approaches
 - [[Future workshops]]
 - [[Workplace making games]]
 - [[Landscape game]]
+
+Brandt discusses that visual and haptic [[Pieces]] are more powerful als just verbal language. They act as [[Boundary Objects]] and help Stakeholders with different backgrounds to find a common language. 
+
+----
 
 They function as framework for how to include the people designed for. Brandt argues that assignments are open-ended to give participants the possibility to interpret and influence on what to focus. 
 

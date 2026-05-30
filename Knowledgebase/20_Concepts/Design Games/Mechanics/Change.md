@@ -1,1 +1,0 @@
-[[brandtDesigningExploratoryDesign2006]] describes that [[Exchange Perspective Games]] often employ the element of Change
