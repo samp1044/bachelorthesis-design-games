@@ -1,1 +1,1 @@
-[[brandtDesigningExploratoryDesign2006]] describes games frequently described as a play with props following specific rules and often with an element of competition between players, decided by chance, strength, skill or a combination of these. 
+[[brandtDesigningExploratoryDesign2006]] Games are frequently described as a play with props following specific rules and often with an element of competition between players, decided by chance, strength, skill or a combination of these. 

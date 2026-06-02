@@ -11,13 +11,15 @@ End result is similar to a [[Persona]] but the people using it later participate
 - Players - Consisting of designers and users to design for
 #### Mechanics
 - [[Turn Taking]]
+#### Outcome
+- [[Persona]] like description
 #### Category (Brandt)
 - Mainly [[Exchange Perspective Games]]
 	- Starting from real things (Videos) they get combined to create something new (Surrealist)
 	- Combining as a crossword -> Getting out of habits
 - Partly [[Negotiation and Work-flow Oriented Games]]
 	- Create shared image of user
-	- Democracy of design (through [[Rules]] like [[Turn Taking]] and the use of [[Pieces]] a [[Challenge - Dominant Group Member]] is prevented)
+	- Democracy of design (through [[Game Rules]] like [[Turn Taking]] and the use of [[Pieces]] a [[Challenge - Dominant Group Member]] is prevented)
 
 Preparing to the game field work is conducted and the users interviewed / observed at work and/or outside work for a few days. Everything is recorded on video. 
 

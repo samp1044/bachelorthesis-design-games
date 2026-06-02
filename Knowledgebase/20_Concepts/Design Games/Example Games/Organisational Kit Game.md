@@ -7,7 +7,7 @@ Example of a [[Negotiation and Work-flow Oriented Games]] [[Exploratory Design G
 - Designers as Gamemasters
 - Employees of the organization playing themselves and their roles
 #### Materials
-- Cars in various sizes and colors
+- Cards in various sizes and colors
 - Game board
 
 Aim is to define the basic functions in the production flow and identify the artefacts and materials that might be used. The designers made observations and interviews of the employees beforehand and studied other similar organisations. Their findings were turned into cards. The game is played by placing cards on a game board, discuss their meaning and create a common understanding of the current organisation. 
