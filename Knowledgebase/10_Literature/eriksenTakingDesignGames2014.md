@@ -23,7 +23,7 @@ Mentioned Remedies for Power Problems are
 ---
 **Verknüpfte Konzepte:**
 * [[Actor-Network-Theory]]
-* [[Design Games]]
+* [[Knowledgebase/20_Concepts/Design Games/Design Games]]
 * [[Participatory Design]]
 * [[Equalizing Power Relations in Participatory Design]]
 * [[UrbanTransition Game]]

@@ -1,0 +1,1 @@
+[[eriksenTakingDesignGames2014]], [[brandtDesigningExploratoryDesign2006]] and [[vaajakallioDesignGamesCodesign2014]] mention that Design Games should not be strictly reused but created by [[Designers]] customized for the Design task. 

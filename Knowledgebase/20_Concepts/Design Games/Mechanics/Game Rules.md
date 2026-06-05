@@ -1,1 +1,1 @@
-[[brandtDesigningExploratoryDesign2006]]: Game Rules like [[Turn Taking]] help level stakeholders playing [[Design Games]]
+[[brandtDesigningExploratoryDesign2006]]: Game Rules like [[Turn Taking]] help level stakeholders playing [[Knowledgebase/20_Concepts/Design Games/Design Games]]

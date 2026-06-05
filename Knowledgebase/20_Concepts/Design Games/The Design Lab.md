@@ -1,4 +1,4 @@
-A design approach named by [[brandtDesigningExploratoryDesign2006]] for creating [[Design Games]]. Involes both (potential) users and other stakeholders. 
+A design approach named by [[brandtDesigningExploratoryDesign2006]] for creating [[Knowledgebase/20_Concepts/Design Games/Design Games]]. Involes both (potential) users and other stakeholders. 
 
 Based on a series of design events focusing on collaborative inquiry and [[Participatory Design]] 
 

@@ -1,4 +1,4 @@
-[[brandtDesigningExploratoryDesign2006]] discusses Exploratory [[Design Games]] as a framework for organising participation in a [[Participatory Design]] project. 
+[[brandtDesigningExploratoryDesign2006]] discusses Exploratory [[Knowledgebase/20_Concepts/Design Games/Design Games]] as a framework for organising participation in a [[Participatory Design]] project. 
 
 Opposed to a standard [[Game]], players seldom compete in order to win a game. Instead the aim is to take advantage of various skills and expertise to jointly explore design possibilities within a game setting. 
 

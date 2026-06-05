@@ -1,0 +1,1 @@
+[[vaajakallioDesignGamesCodesign2014]] defines codesign based on a belief that all people are creative and can contribute to design if provided with an appropriate setting and tools. 

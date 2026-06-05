@@ -8,8 +8,10 @@ citekey: vaajakallioDesignGamesCodesign2014
 
 # Design games in codesign: as a tool, a mindset and a structure (2014)
 
+Main contribution: introduction of a play framework
+
 
 
 ---
 **Verknüpfte Konzepte:**
-- 
+* 

@@ -3,6 +3,13 @@ Design Games und ihre Anwendung in kreativen Prozessen
 Literaturrecherche über Design Games in unterschiedlichen kreativen Prozessen, auch außerhalb der Informatik
 Vergleichende und zusammenfassende Beschreibung von Design Games in unterschiedlichen Einsatzdomänen, mit Beispielen zur weiteren Klärung
 
+#### Terminnotizen Tellioglu:
+* Design Games - Gamification, Serious games, Schwierigkeiten, Hindernisse, Anforderungen  
+* Design Thinking  
+* insgesamt 40 papers recherchiert, schreibt zusammen, was in den Papers ist  
+* Systematik ausarbeiten, mit Beispielen von Design Games arbeiten, einordnen  
+* Zusammenhänge von DGs mit anderen DThinking Methoden
+
 ## Fragen
 ### Was sind Design-Games
 
