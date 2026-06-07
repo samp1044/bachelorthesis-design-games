@@ -32,3 +32,30 @@ Eventuell:
 - Welche Arten von Design Games gibt es? (z.b. Kategorisierung nach Brandt)
 - "Zusammenfassende Beschreibung" -> Aus welchen Elementen besteht ein Design Game? (z.b. Regeln, Material)
 - Einsatz in Domänen -> Bilden sich Standardspiele heraus?
+
+-----
+
+Status nachträglich remote über Teams:
+
+Status:
+Ich bin leider nicht so viel weiter gekommen, wie ich geplant hatte. 
+Habe primär angefangen Konzepte, Beispiele und Probleme aus 
+- 2006 - Brandt - Designing exploratory design games
+- 2014 - Eriksen - Taking design games seriously
+Das hat überraschend lange gedauert. 
+
+Bei 2014 - Vaajakallio - Design games in codesign: as a tool, a mindset and a structure
+bin ich grad dabei. 
+
+Danach würde ich eventuell mit den Papers
+- 2019 - Roy - Card-based design tools: a review and analysis of 155 card decks for designers and designing
+- 2023 - Nymark - Technology Cards: a design game for navigating in a future of digital technologies
+fortfahren oder anfangen die gesammelten in Zotero bezüglich Einordnung in Design Thinking / codesign zu sichten. 
+
+Ich sammel die Erkentnisse in Obsidian als verlinkte Markdown Dateien: 
+https://github.com/samp1044/bachelorthesis-design-games/tree/master/Knowledgebase 
+
+Meine Idee zur Vorgehensstruktur ist: 
+-> Konzepte zusammentragen (ähnlich Zettelkasten) - /20_Concepts
+-> Danach Vergleichen (tabellarisch, wo passend) - /30_Comparisons
+-> Und Verbindungen / Gemeinsamkeiten synthetisieren - /40_Synthesis
