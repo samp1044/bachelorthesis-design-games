@@ -3,6 +3,7 @@
 [[brandtDesigningExploratoryDesign2006]] mentions Game playing creates an informal atmosphere, which is the most productive in creative work. 
 
 [[vaajakallioDesignGamesCodesign2014]] defines them as tools for [[Codesign]] that emphasize play-qualitites like playful mindset and structure, which are supported by game materials and rules. The objects are rooted in the design context (e.g. designing service models for a bank). Means for reaching these objectives are drawn from design practice and world of games. 
+Also describes them as being increasingly applied for engaging users and other design partners in the early front end of design processes. 
 #### Beispiele
 - [[UrbanTransition Game]]
 

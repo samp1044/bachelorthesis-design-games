@@ -1,0 +1,3 @@
+[[eriksenTakingDesignGames2014]], [[brandtDesigningExploratoryDesign2006]] and [[vaajakallioDesignGamesCodesign2014]] mention that [[Design Games]] should not be strictly reused but created by [[Designers]] customized for the Design task. 
+
+[[vaajakallioDesignGamesCodesign2014]] summarizes that most descriptions agree that [[Design Games]] are about staging participation, there is seldom competition over who wins and there are [[Game Rules]] and tangible Game [[Pieces]]. 
