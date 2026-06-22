@@ -1,1 +1,3 @@
 [[brandtDesigningExploratoryDesign2006]] Games are frequently described as a play with props following specific rules and often with an element of competition between players, decided by chance, strength, skill or a combination of these. 
+
+Common to most games is that they are played according to [[Game Rules]]. "A game is a system in which players engage in artificial conflict, defined by rules, that results in a quantifiable outcome" [[vaajakallioDesignGamesCodesign2014]]

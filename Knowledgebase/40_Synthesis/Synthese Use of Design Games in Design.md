@@ -1,0 +1,1 @@
+[[vaajakallioDesignGamesCodesign2014]] describes design games with their main application phase in [[Concept search]]

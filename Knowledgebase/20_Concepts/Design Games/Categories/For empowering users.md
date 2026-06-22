@@ -1,0 +1,1 @@
+Provide hands-on tools for establishing a common language between designers and users. Involve users in discussions. Has historically also dealt with democratisation of workplaces. [[vaajakallioDesignGamesCodesign2014]]

@@ -1,4 +1,4 @@
-[[brandtDesigningExploratoryDesign2006]] categorizes [[Exploratory Design Games]] based on their function in relation to [[Codesign]]:
+[[brandtDesigningExploratoryDesign2006]] categorizes [[Exploratory Design Games]] based on their function in relation to [[Codesign]] with an emphasis on the explorative nature of design games:
 - [[Concept Design Games]]
 - [[Exchange Perspective Games]]
 - [[Negotiation and Work-flow Oriented Games]]

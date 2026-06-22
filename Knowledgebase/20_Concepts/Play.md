@@ -1,0 +1,1 @@
+Temporary sphere of activity in which the laws of ordinary life do not count. These ordinary worlds are also called [[Magic Circle]]. [[vaajakallioDesignGamesCodesign2014]]
