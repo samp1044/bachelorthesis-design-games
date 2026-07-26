@@ -5,4 +5,5 @@ Benefits & Disadvantages?
 Wo werden Design Games eingesetzt? + Beispiele
 Welche Schwierigkeiten gibt es noch bei Design Games?
 	- Use in remote constellations? E.g. during Covid?
+Was ist Design Thinking?
 Wo in Design Thinking werden Design Games eingesetzt?
