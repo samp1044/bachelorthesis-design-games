@@ -107,4 +107,51 @@ Rehearsing the future - workshop was conducted with consultants taking roles as 
 
 **This paper does not categorize nor classify design games in any way**
 
+---
+[Technology Cards: A Design Game for Navigating in a  Future of Digital Technologies - Nymark - 2023]
+Mentions design games developed by purpose such as [p.2]
+- investigating a design problem
+- influencing user behavior
+- facilitate collaboration
+- generate ideas
 
+Highlights that design games fall within the category of design tools which are instruments of enquiry and posses one or more of the following five basic qualitites: [p.3]
+- _Perception_: Revealing otherwise hidden facets of a design situation
+- _Conception_: Helping designers understand the problem and examine possible solutions
+- _Externalization_: Evaluate imagined design solutions as part of the world
+- _Knowing-through-action_: Generate knowledge through acting with an instrument
+- _Mediation_: Exchange insights between actors and artefacts and coordinate actions
+
+Of reviewed design tools 72% were or included card decks [p.3]. 
+They mention technology-oriented design games [p.3]. They then focus on a _branch of design games_ - design games to aid futures thinking [p.3] (building on Roy and Warren 2019 - _futures thinking_) - and further divide it into 3 groups:
+- Games that focus on _idea generation and conceptualisation_
+- Games that focus on _promoting better designs or change_
+- Games that focus on _anticipating the impact of trends and technologies_
+Technology cards also fall within that thrid group [p.3-4]. 
+
+They conducted sessions involving their technology cards as [p.9]
+- Game 1 - Which technologies do we find most important? (Order the cards by importance as a group)
+- Game 2 - Select a combination of 2-4 technologies that represent an idea for digitalisation
+- Game 3 - How does the future look like and how do we get there? (common vision of future by combining cards - then discuss which steps are necessary to reach that vision)
+
+The presented Technology cards Game posesses 4 of the qualitites mentioned above [p.11] 
+- _Perception_: Participants identified design challenges by presenting examples of current challenges to justify their viewpoints when priotising technologies [p.11]
+- _Conception_: By helping people examine and obtain an overview of technologies that could improve their business [p.12]
+- _knowing-through-action_: Participants clustered technologies that they considered to be related or interdependent [p.12]
+- _mediating_: The game like format of the cards encouraged participants to take turns joining the discussion
+
+---
+[Staging situated negotiation games for (re)designing local healthcare facilities and services - Pedersen - 2025]
+Describes policy games as a subset of serious games [p.4]. Design Games are described as tools for collaboratively exploring problems and solutions iteratively, while policy games are played during specific events and in stand-alone workshop settings [p4-5].
+
+Negotation is further described as a central part to both design and policy games. Not surprising, since negotiation is a core aspect of collaborative design [p.5]. Also plays a central role in the actor-network theory [p.6]. 
+
+Describes thus a Negotiation Games Framework "Staging Negotation Spaces" based on a theatrical metapher and combining theory from ANT, methods from participatory design such as games. [p.6-7]. 
+
+Developed three types of negotiation games: [p.9]
+- _Configuration games_: For mapping and reflection of current practices and roles. Learn about current situation. Serve as baseline for discussing configuration of future scenarios. 
+- _Prioritisation games_: Ranking aspects or problems. Keywords as game pieces, flexibility in rules
+- _Process oriented games_: Negotiating and configuring care pathways. Focus on iterative problem solving.
+
+They all share: Game boards, pieces and question cards as structuring elements. [p.8] 
+Other elements of games, like turn-taking or change were absent [p.24]. The negotiation games served as boundary objects [p.24]. 
