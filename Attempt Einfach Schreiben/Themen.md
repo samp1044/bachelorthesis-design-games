@@ -4,6 +4,8 @@ Welche Kategorien gibt es von Design Games?
 Development (History) von Design Games?
 Mechaniken von Design Games?
 	- Different Roles of participants? (Vaajakallio 2014)
+Abgrenzung zu anderen Design Methoden (Design + Games)
+Abrenzung zu Gamification
 Connection to Games / Definition of Games?
 Benefits & Disadvantages?
 Wo werden Design Games eingesetzt? + Beispiele
