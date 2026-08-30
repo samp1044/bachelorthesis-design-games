@@ -26,3 +26,8 @@ The use of **stylized game-pieces** prompts participants to be explicit about th
 **Scenario construction** can be used for creating and testing design ideas [p.9]. Generic props may be provided, or the users encouraged to produce their own in e.g. foam [p.8]. Having users create and explore scenarios in their own environment puts them on more equal footing with the design team [p.9]. 
 
 [Formatting design dialogues – games and participation - 2008 - Brandt]
+Essence of play lies in the intensity and the absorption of the players. Referred to as the **Fun element** [p.4]. Absorption has to be based on voluntary participation and an acceptance of the game rules [p.4]. 
+
+_User Game_: Moment cards and Sign cards with videos [p.6] provide an **ambiguity**, partly by the open-ended nature of the video material. It matters what framing the Sign cards provide for the outcome of the game [p.8]. 
+
+**Board games** are at the same time a format, means for collaboration and a vehicle for producing artifacts as reifications of the process. 
