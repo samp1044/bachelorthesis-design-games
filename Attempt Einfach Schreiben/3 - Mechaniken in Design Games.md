@@ -31,3 +31,45 @@ Essence of play lies in the intensity and the absorption of the players. Referre
 _User Game_: Moment cards and Sign cards with videos [p.6] provide an **ambiguity**, partly by the open-ended nature of the video material. It matters what framing the Sign cards provide for the outcome of the game [p.8]. 
 
 **Board games** are at the same time a format, means for collaboration and a vehicle for producing artifacts as reifications of the process. 
+
+[Taking design games seriously: re-connecting situated power relations of people and materials - 2014 - Eriksen]
+Describes **actors** as humans and non-humans that have an agency [p.3]. Some actors are **mediators**, "making others do unexpected things" [p.3]. According to former own thesis **materials** too are participating in co-designing [p.3]. 
+**Gamemaster Role** (preparing, organizing, staging the PD event) often taken by PD researches as they have more experience with organising and staging PD events than participants[p.5]. 
+Explanation of the game by moving and referring to the game materials [p.5]. Also proposals for the Design are sent beforehand to the participants [p.5]. 
+**Agenda** - often some projectmanager deciding on what issues to include in the discussion or on what discussions to make room (time) for before the PD session - manifests power relations between facilitator and participants [p.6]
+Participants play the same game in parallel, split in groups. Thus each group comes to their own conclusion (not mentioned, but implicitly readable) [p.6]. 
+Game material such as a **Game board** [p.6] so everyone can see the current state. Preselected and preprinted **Controversity Gameboard pieces** - set a topic for dialogue and negotiations.  **Preprinted proposals** so participants can point towards details during discussions. **Personal tokens** to argue/bet with. By moving the proposal tokens the discussion is caputed physically on the board for everyone to see [p.8]
+
+In each turn the current turn taker reads out the question on the controversity game board. It thus becomes the center of attention and sets the scene [p.7]. Reading it out loud shares the information with everyone and allows everyone to get familiar with the topic [p.7]. 
+
+**Turn taking**, symbolized through a figure. Often used with the aim to equalize power. It divides attention among human players [p.8]. 
+**Clock** for structuring time and making the team conclude their discussion as well as making the positioning the proposal tokens. Also for **equally distributing time** between the different game board pieces (e.g. the issues to discuss). **acts as time keeper** [p.9] 
+
+Brandt mentions that decision-making should be postponed during co-design events as negotiations might hinder creativity [p.10]. 
+
+[Design games in codesign: as a tool, a mindset and a structure - 2014 - Vaajakallio]
+Provide a stage and tools for people to share current and past experiences in order to envision future ones [p.3] Most descriptions agree that design games are about **staging participation**, there is **seldom competition** about who wins and there are **rules** and **tangible game pieces** that guide the design moves and particpation [p.3]
+In games, as in real life, players moves are limited by the existing **rules** and conventions [p.3]. 
+**Negotiation** seems to be central to all design games, especially in codesign [p.5]. 
+Codesign context partly defines what game qualitites are desirable [p.5]
+
+**Magic circle**: temporary sphere of activity in which the laws of ordinary life do not count [p.6]. They allow to travel between past experiences, current situation and future dreams. [p.6]. Invites participants to think beyond the ordinary and envision alternative solutions. [p.6].
+One look at codesign can be as **rituals** to understand transition from daily practice to a magic circle. E.g. Transforming the space into a performance space by **rearranging the chairs** similar to a theatre with a stage [p.6]. 
+
+**Rules** convey what players can or cannot do in the temporary world [p.6]. In contrast to a typical game in design games rules are often open for reinterpretation [p.6]. Vague rules and props trigger players to be explicit in describing how they understand and interpret them. This supports building a **common language** among participants. [p.6]. 
+
+Rarely **competition** in design games. But **tension** (entailing elements of chance and a desire to succeed) is a quality of design games [p.7]. 
+
+**Enacted performance**, like stage performers, helps in gaining empathy of experiences of the persons to design for [p.7].  Design games also allow participants to **switch roles** and gain new perceptions on a topic and empathic understanding of other peoples experiences. 
+**Role-play** activity. In performances, play and games the reactions of performers and audience are real, even though the actions that trigger these are fictional [p.10]. 
+
+Since **Rules** are easily associated with board and card games, they work as a bridge between ordinary work practices and the special play sphere [p.11]. A **table top role playing game** was used because of the difficulties in encouraging participants to act. [p.11]. 
+
+**Predesigned material** is of great help in setting a frame and starting points for the design collaboration [p.12]. **Open-ended and ambiguous tasks** help participants to propose new interpretations and alternative solutions. [p.12]. 
+
+**Visual and tangible components** of the design games are **generative tools**. They aim at creating a platform for shared focus of attention. They also provide a documentation and reminder during and after the codesign gathering [p.12]. 
+
+[]
+
+
+
