@@ -1,0 +1,2 @@
+[[brandtDesigningExploratoryDesign2006]]
+[[Tangible Game Material]] and [[Rules]] help bridge the gap between different languages of the participants. They create a [[common ground]] everyone can relate to. 

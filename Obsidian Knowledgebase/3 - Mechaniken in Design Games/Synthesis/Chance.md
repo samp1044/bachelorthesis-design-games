@@ -1,0 +1,2 @@
+[[brandtDesigningExploratoryDesign2006]]
+From the surrealist movement. Games are based on a wish to get out of habits, experience new and be taken by surprise. May be a dice to decide by chance which topic / question to work on next. 

@@ -1,0 +1,2 @@
+[[brandtDesigningExploratoryDesign2006]]
+Playing a design game allows to learn about concepts the players hold. Using stylized, [[Abstracted]] [[Game pieces]] prompts participants to be more explicit about their understandings and views when playing. 

@@ -1,0 +1,1 @@
+Facilitator takes an active role. Drives the process forward by making suggestions and encouraging players to make moves [[brandtFacilitatingCollaborationDesign2004a]]

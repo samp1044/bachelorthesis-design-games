@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "0dc7064a82d83ed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8efc99bc5021287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30a7d85e9e360f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Mechaniken in Design Games/Mechaniken in Design Games.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mechaniken in Design Games"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a535f8e1869bb507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67d02571c5aee4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Mechaniken in Design Games/Synthesis/Tangible Game Material.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tangible Game Material"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbfb9a9ad461a459",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca4cd86d6b9feef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae5f98d3f5a3a88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "177d1a5e2e2982c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0e0c51962b83bb92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "127b4dce344643dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac9e591a4ba02f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37055a97bbe69b4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Mechaniken in Design Games/Synthesis/Tangible Game Material.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "59da178ae0933090",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - Mechaniken in Design Games/Synthesis/Tangible Game Material.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1097772d160fdd6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c2ba39663ff4a042",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "04f9b1c70eb96626",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Mechaniken in Design Games/Synthesis/Tangible Game Material.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "67d02571c5aee4b6",
+  "lastOpenFiles": [
+    "3 - Mechaniken in Design Games/Synthesis/Acting.md",
+    "3 - Mechaniken in Design Games/Synthesis/Power relations.md",
+    "3 - Mechaniken in Design Games/Synthesis/Scenarios.md",
+    "3 - Mechaniken in Design Games/Synthesis/Rules.md",
+    "3 - Mechaniken in Design Games/Synthesis/Common language.md",
+    "3 - Mechaniken in Design Games/Synthesis/Tangible Game Material.md",
+    "3 - Mechaniken in Design Games/Synthesis/Boundary object.md",
+    "3 - Mechaniken in Design Games/Synthesis/Participant concepts.md",
+    "3 - Mechaniken in Design Games/Synthesis/Abstracted.md",
+    "3 - Mechaniken in Design Games/Synthesis/Informal atmosphere.md",
+    "3 - Mechaniken in Design Games/Synthesis/Open ended.md",
+    "3 - Mechaniken in Design Games/Mechaniken in Design Games.md",
+    "3 - Mechaniken in Design Games/Synthesis/Chance.md",
+    "3 - Mechaniken in Design Games/Synthesis/Combining elements that do not fit together.md",
+    "3 - Mechaniken in Design Games/Synthesis/Input.md",
+    "3 - Mechaniken in Design Games/Synthesis/Involving Stakeholders.md",
+    "3 - Mechaniken in Design Games/Synthesis/Turn taking.md",
+    "3 - Mechaniken in Design Games/Synthesis/Magic if.md",
+    "3 - Mechaniken in Design Games/Synthesis/Win.md",
+    "3 - Mechaniken in Design Games/Synthesis/Competing.md",
+    "3 - Mechaniken in Design Games/Synthesis/Roles.md",
+    "Game-boards.md",
+    "Papers/brandtDesigningExploratoryDesign2006.md",
+    "3 - Mechaniken in Design Games/Synthesis/Facilitator.md",
+    "Papers/brandtFacilitatingCollaborationDesign2004a.md",
+    "Papers/template.md"
+  ]
+}
