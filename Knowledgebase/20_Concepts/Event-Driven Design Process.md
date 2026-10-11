@@ -1,1 +1,0 @@
-[[vaajakallioDesignGamesCodesign2014]] Collaboration with design partners mainly takes place in arranged situations. i. e. codesign events have a predesigned structure, tasks and facilitation. 

@@ -1,2 +1,0 @@
-[[vaajakallioDesignGamesCodesign2014]]
-

@@ -1,1 +1,0 @@
-Create, play and reflect as a way of teaching design students how to establish social interaction between stakeholders. [[vaajakallioDesignGamesCodesign2014]]
