@@ -5,3 +5,7 @@ Objects acting as [[Tangible Game Material]]. They allow players to find out how
 Game state and [[Game pieces]] are placed centrally so every participant can see the current state of information. [[Game pieces]] are [[abstracted]] so participants can choose what they represent ([[Open to interpretation]]). 
 
 [[Game pieces]] function as boundary objects, shared objects that allow different interpretations at the same time. 
+
+[[eriksenTakingDesignGames2014]]
+Personal tokens to argue/bet with. By moving the proposal tokens the discussion is caputed physically on the board for everyone to see [p.8]
+

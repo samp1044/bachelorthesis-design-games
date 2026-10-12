@@ -1,0 +1,2 @@
+[[eriksenTakingDesignGames2014]]
+**Clock** for structuring time and making the team conclude their discussion as well as making the positioning the proposal tokens. Also for **equally distributing time** between the different game board pieces (e.g. the issues to discuss). **acts as time keeper** [p.9] [[Power relations]]
