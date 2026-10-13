@@ -11,3 +11,9 @@ Turn taking, symbolized through a figure. Often used with the aim to equalize [[
 
 [[gudiksenExplicatingStakeholderCriteria2017]]
 Participants **took turns** trying to break the current barrier using their competencies [p.5]. A wheel was turned to determine who starts (**element of chance**) [p.5]. 
+
+[[[fikarGroundedTheoryZur2023]]
+Beispielspiel "Windschatten": In der **Rolle als Kommunikationswerkzeug** strukuriert und organisiert das Spiel über die **Runden** die Aktivitäten und Kommunikation der Spielenden [p.30]
+
+[[nymarkernstsenTechnologyCardsDesign2023]]
+Participants were asked to **take turns** selecting a card and placing it on a **central board** [p.9] [[Tangible Game Material]]

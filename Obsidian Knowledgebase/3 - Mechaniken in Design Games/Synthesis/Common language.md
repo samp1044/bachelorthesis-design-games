@@ -6,3 +6,10 @@ In contrast to a typical game in design games [[Rules]] are often open for reint
 
 [[gudiksenExplicatingStakeholderCriteria2017]]
 Design Games are found especially good at establishing a **working language**, because tangible game pieces and boards enables a **quick shared frame** for participants and **rules and procedures** result in a **structured dialogue** [p.8]
+
+[[kjaersgaardDesignGamesFieldwork2021]]
+Provide a **shared language** of design to facilitate the meeting and mutual learning [p.3]. 
+[[Facilitator]]
+
+[[zhangAddressingCulturalInertias2024]]
+**Rules** of the design game **can quickly change the communication patterns** of participants. They **prompt players to voluntarily overcome unnecessary obstacles**, for example by prescribing **when and where players should explicitly discuss a certain theme** with stakeholders. This **creates a shift from implicit communication to more explicit communication** patterns. [p.8]

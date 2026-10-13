@@ -24,3 +24,13 @@ Since **Rules** are easily associated with board and card games, they work as a 
 
 [[gudiksenExplicatingStakeholderCriteria2017]]
 **rules and procedures** result in a **structured dialogue** [p.8]
+
+[[fikarGroundedTheoryZur2023]]
+**Regeln** sind entscheidende Struktierungsinstanz des Spiels [p.11]. Spieler fügen sich in **verregelte Rollen** ein, die ihnen bestimmte Spielräume einräumen. [[Roles]]. Regeln geben vor welchen Zweck die Spieler verfolgen, was Kriterien für Erfolg sind und welche Mittel zur Zielerreichung legitim sind [p.12]. [[Win]] Regel stellen also den Freiraum durch Ausschluss des Alltags her und bilden gleichzeitig auch seine Grenzen [p.12]. Übergang vom Spiel zum Spielen resultiert daraus dass Regel bestimmte **Freiheitsgrade für Interpretation** haben [p.12]. **Teilnehmer** gelten als **Träger kultureller Wahrnehmungs, Bewertungs und Handlungsschemata**, **Regel** werden also **nicht völlig frei interpretiert**, sondern vor dem Hintergrund der Erfahrungen und Erwartungen der Spielenden [p.13] [[Participant concepts]]
+
+[[zhangAddressingCulturalInertias2024]]
+**Rules and [[Tangible Game Material]]** guide the design process and there is **less emphasis on [[Competing]] and [[Win]]ning** the game [p.3]
+
+A **[[Win]]ning condition and rules** to guide argumentation makes it **easier to reach consensus** in the design game, which is described as more troublesome in classic co-design workshops with strangers [p.7]
+
+**Rules** of the design game **can quickly change the communication patterns** of participants. They **prompt players to voluntarily overcome unnecessary obstacles**, for example by prescribing **when and where players should explicitly discuss a certain theme** with stakeholders. This **creates a shift from implicit communication to more explicit communication** patterns. [p.8]

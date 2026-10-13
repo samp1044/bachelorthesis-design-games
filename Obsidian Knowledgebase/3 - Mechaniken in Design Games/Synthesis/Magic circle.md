@@ -5,3 +5,6 @@ One look at codesign can be as **rituals** to understand transition from daily p
 
 [[hatamiFacilitatingServiceInteractions2016]]
 Creates a kind of **magic circle** [p.7]. 
+
+[[fikarGroundedTheoryZur2023]]
+Das Spielfeld konstruiert einen gemeinsamen Erfahrungsraum [p.14]. Mit einer Art "Taschenspielertrick" suggeriert das Spiel dass der **Ernst des Lebens / alltägliche Zugzwänge aus dem "magic circle" ausgeklammert** sind, verwebt aber die Beziehungen der Spielenden neu und vergegenwärtigt neue Zukunftshorizonte [p.14]

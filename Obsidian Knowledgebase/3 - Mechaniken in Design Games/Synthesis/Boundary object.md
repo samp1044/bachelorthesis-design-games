@@ -9,3 +9,14 @@ Game state and [[Game pieces]] are placed centrally so every participant can see
 [[eriksenTakingDesignGames2014]]
 Personal tokens to argue/bet with. By moving the proposal tokens the discussion is caputed physically on the board for everyone to see [p.8]
 
+[[kessnerWickedPlayWicked2020]]
+[[Broken games]] are incomplete games - missing or ill-aligned mechanics, lack of clear rules, etc. - which **participants must "fix"** as part of a larger task [p.3]. Broken games function as [[things-to-think-with]] - players take the [[Roles]] of player-designers who must redesign the broken game to align to certain learning goals [p.3]. This shift in task-participant structure creates a playful game space in which design novices are immersed in designerly thought and activity. [p.3] [[Informal atmosphere]]
+
+[[fikarGroundedTheoryZur2023]]
+Übergang vom Spiel zum Spielen resultiert daraus dass Regel bestimmte **Freiheitsgrade für Interpretation** haben [p.12].[[Rules]] **Teilnehmer** gelten als **Träger kultureller Wahrnehmungs, Bewertungs und Handlungsschemata**, **Regel** werden also **nicht völlig frei interpretiert**, sondern vor dem Hintergrund der Erfahrungen und Erwartungen der Spielenden [p.13] 
+
+[[nymarkernstsenTechnologyCardsDesign2023]]
+Acting as **boundary objects** between stakeholders in the design process, design games can set rules for collaborative activities and bring in new perspectives (Kwiatkowska 2014) [p.2]
+
+[[bunaesRulesPlayBalance2024]]
+**[[Cards]] gave the participants [[things-to-think-with]]** [p.7]

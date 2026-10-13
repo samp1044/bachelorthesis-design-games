@@ -53,3 +53,20 @@ Design Games are found especially good at establishing a **working language**, b
 
 [[Cards]] thus facilitate creative combinations of information and ideas. They provide a **common basis for understanding and communication** in a team. They are semi-structured between blank post-its and detailed instruction manuals. 
 However they can also overload participants with too much information, may oversimplify some information and are difficult to change and update. [p.7]
+
+[[kessnerWickedPlayWicked2020]]
+Has a [[Game board]] that abstracts the larger water ecosystem and **tangible** plastic [[Game pieces]] representing pollution. Additionally **Action, Event and Disaster [[Cards]]** are used [p.4]
+
+[[kjaersgaardDesignGamesFieldwork2021]]
+Participants enacted [[scenarios]] using **tangible** game pieces [p.7]. They used **[[abstracted]] objects** like a writeable board, figures, wood blocks, plasticine to represent scenarios they experienced. 
+
+Dads round: [[Tangible Game Material]] [[Cards]], turning table as [[Game board]] that allows participants to pick a random theme [p.14] Additionally a [[Dice]] is present with predefined roles (mother, sibling, grandparents, ..). 
+
+[[fikarGroundedTheoryZur2023]]
+Geistesblitz bildet sich im Zusammenspiel mit den materiellen Artefakten des Spiels aus: Spielfeldern, Linien, Sitzmöglichkeiten, die anderen Teilnehmenden [p.13]
+
+[[nymarkernstsenTechnologyCardsDesign2023]]
+**Physical gestures** involved in **holding, moving and grouping cards** can aid cognition and help simplify the complexity of a design problem [p.3]
+**Physical [[Cards]]** presenting technologies of importance [p.4] 
+
+Participants **physically clustered** the [[cards]] they considered to be related or interdependent [p.12]

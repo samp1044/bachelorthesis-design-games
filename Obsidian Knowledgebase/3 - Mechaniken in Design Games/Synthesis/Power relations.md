@@ -16,3 +16,14 @@ Creating a playful and safe environment through the use of a boardgame to lower 
 
 [[gudiksenExplicatingStakeholderCriteria2017]]
 The **ludic dimension** facilitated commitment and ignored the potential for power relations [p.6] [[Fun]]
+
+[[nymarkernstsenTechnologyCardsDesign2023]]
+**Game like format** lowered the entry barrier to join discussion [p.12] **Participatory design tools** can encourage stakeholders to participate and **equalize power relations** [p.13.]
+
+[[bunaesRulesPlayBalance2024]]
+Using the design game structured the conversations and opened a more constructive negotiation of ideas and concepts [p.5]
+
+[[zhangAddressingCulturalInertias2024]]
+By engaging **users in a shared experience**, design games **encourage cross-disciplinary collaboration**. The **collective effort helps overcome rigid organizational structures** and **fosters a culture of openness and cooperation**. [p.3]
+
+Immersing **stakeholders in the mindset of play**, it appears that **their power distances are blended and balanced**. The ludic drive might be behind this transition. [p.8]

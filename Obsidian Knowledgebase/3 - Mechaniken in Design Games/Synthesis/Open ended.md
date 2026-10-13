@@ -15,3 +15,14 @@ In contrast to a typical game in design games [[Rules]] are often open for reint
 **Open ended design briefs** received beforehand [p.5]. [[Input]]
 
 Cards had a dedicaded space where participants could add their own notes, thus where **open ended**  [p.8] 
+
+[[fikarGroundedTheoryZur2023]]
+Design Games sind ergebnisoffen und selbst unabgeschlossen [p.9].
+
+[[nymarkernstsenTechnologyCardsDesign2023]]
+Also **additional empty [[Cards]]** to allow users to add technologies of their own (Open ended, open for interpretation). [p.5] 
+
+[[bunaesRulesPlayBalance2024]]
+**Design games are often designed iteratively and with user participation as workshop** [p.2]. 
+
+**Cards sparked creativity to build upon the initial idea** [p.6]. The cards had the **right amount of ambiguity** for that [p.6]. **Balance of openness and preciseness of the rules** of using the cards is found beneficial [p.6]

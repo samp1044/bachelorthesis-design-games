@@ -6,3 +6,6 @@ Since **Rules** are easily associated with board and card games, they work as a 
 
 [[gudiksenExplicatingStakeholderCriteria2017]]
 The **ludic dimension** facilitated commitment and ignored the potential for [[Power relations]] [p.6]
+
+[[zhangAddressingCulturalInertias2024]]
+Immersing **stakeholders in the mindset of play**, it appears that **their power distances are blended and balanced**. The ludic drive might be behind this transition. [p.8] [[Power relations]]

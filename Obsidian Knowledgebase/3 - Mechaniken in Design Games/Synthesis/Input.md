@@ -28,3 +28,16 @@ Game can be used to ideate presented concepts to ensure ownership from the parti
 
 [[royCardbasedDesignTools2019]]
 Some [[Cards]] may also summarize good design practice to hint designers/participants towards it during a design session [p.15]. 
+
+[[kjaersgaardDesignGamesFieldwork2021]]
+Each frame was drawn on card game like templates (**card format**, **tangible game pieces**). Other stories were available for inspiration (**premade inspiration**) [p.11]
+
+[[nymarkernstsenTechnologyCardsDesign2023]]
+**Images and use cases depicted on the [[Cards]]** helped participants to gain a quick understanding of the technology [p.11]. The cards worked surprisingly well as an object for discussion [p.11]
+
+[[bunaesRulesPlayBalance2024]]
+Design [[cards]] offer an approachable way to introduce information. [p.2] [[Tangible Game Material]]
+
+**Cards were randomly drawed** and provided **a starting point** on which to build the scenario [p.4]. Additional cards **introduced challenges** to incorporate in this [[scenario]] which sparked interesting discussions and caused some scenarios to be re-designed [p.4]
+
+**Cards sparked creativity to build upon the initial idea** [p.6]. The cards had the **right amount of ambiguity** for that [p.6]. **Balance of openness and preciseness of the rules** of using the cards is found beneficial [p.6]
