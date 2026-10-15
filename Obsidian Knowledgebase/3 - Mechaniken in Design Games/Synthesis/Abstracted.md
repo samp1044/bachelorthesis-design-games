@@ -14,3 +14,9 @@ They used **abstract objects** like a writeable board, figures, wood blocks, pla
 
 [[bunaesRulesPlayBalance2024]]
 **Cards sparked creativity to build upon the initial idea** [p.6]. The cards had the **right amount of ambiguity** for that [p.6]. **Balance of openness and preciseness of the [[rules]]** of using the cards is found beneficial [p.6]
+
+---
+
+Can be interpreted by participants in multiple ways. 
+Participants need to be explicit. 
+Supports building a common language.
