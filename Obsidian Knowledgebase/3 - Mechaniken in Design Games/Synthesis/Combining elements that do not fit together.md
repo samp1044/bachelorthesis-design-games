@@ -7,3 +7,7 @@ From the surrealist movement. Some creativity techniques are based on combining 
 [[Cards]] thus facilitate creative combinations of information and ideas. 
 
 People can be **triggered out of their normal thinking patterns** by, sometimes unusual, associations, suggestions or actions **written on a [[Cards]]** [p.14]
+
+---
+-> [[Come up with creative ideas]]
+-> [[Break existing habits]]

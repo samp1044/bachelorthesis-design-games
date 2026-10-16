@@ -14,3 +14,6 @@ Der künstliche Konflikt im Spiel ist bei Design Games oft nicht der Konflikt ge
 
 [[zhangAddressingCulturalInertias2024]]
 **[[Rules]] and [[Tangible Game Material]]** guide the design process and there is **less emphasis on competition and [[Win]]ning** the game [p.3]
+
+---
+Der künstliche Konflikt im Spiel ist bei Design Games oft nicht der Konflikt gegeneinander, sondern oft geprägt vom Zusammenarbeiten der Beteiligten gegen die Spielregeln oder als "Kampf gegen die Uhr" -> [[Leveling Hierarchies]]

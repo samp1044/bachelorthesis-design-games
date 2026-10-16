@@ -20,3 +20,11 @@ Acting as **boundary objects** between stakeholders in the design process, desig
 
 [[bunaesRulesPlayBalance2024]]
 **[[Cards]] gave the participants [[things-to-think-with]]** [p.7]
+
+---
+learn how others interpret the material -> [[Learn about particpants - Empathy]]
+Create a common ground everybody can relate to -> [[Create common understanding]]
+Allow different interpretations at the same time -> [[Come up with creative ideas]]
+
+things-to-think-with - Make abstract ideas visible and shared
+https://www.thinkwiththings.com/

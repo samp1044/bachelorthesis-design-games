@@ -12,6 +12,5 @@ Having users create and explore [[Scenarios]] in their own environment puts them
 Doll scenario game: Participants were [[Split in groups]] of two. Participants enacted [[Scenarios]] using [[Tangible Game Material]] [p.7]
 
 ----
-Empathie mit Nutzergruppen
-Put users on a more equal footing to the design team. 
-Einblick in wie Nutzer denken. 
+Put users on a more equal footing to the design team. [[Leveling Hierarchies]]
+Einblick in wie Nutzer denken / Empathie mit Nutzergruppen [[Learn about particpants - Empathy]]

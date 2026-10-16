@@ -15,3 +15,8 @@ Oft sind **Spiele bis zum Ende offen** für neue Wendungen durch Elemente des **
 
 [[bunaesRulesPlayBalance2024]]
 **[[Cards]] were randomly drawed** and provided **a starting point** on which to build the [[scenario]] [p.4]
+
+---
+Surrealist movement -> Based on a wish to get out of habits, experience new and be taken by surprise -> [[Break existing habits]]
+Participants took turns, a wheel was turned to determine who starts by chance -> [[Leveling Hierarchies]]
+Oft sind **Spiele bis zum Ende offen** für neue Wendungen durch Elemente des **Zufalls** und Spielglücks -> [[Come up with creative ideas]]

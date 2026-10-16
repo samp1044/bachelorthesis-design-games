@@ -20,3 +20,10 @@ They used **abstract objects** like a writeable board, figures, wood blocks, pla
 Can be interpreted by participants in multiple ways. 
 Participants need to be explicit. 
 Supports building a common language.
+
+---
+Stylized / Abstracted Game Pieces -> prompt Participants to be explicit about their understandings and views -> Learn about participant concepts + Common understanding
+[[brandtDesigningExploratoryDesign2006]], [[vaajakallioDesignGamesCodesign2014]], [[kjaersgaardDesignGamesFieldwork2021]]
+
+Ambiguous Tasks -> Helps Participants to propose new interpretations and alternative solutions -> Come up with creative ideas
+[[vaajakallioDesignGamesCodesign2014]], [[bunaesRulesPlayBalance2024]]

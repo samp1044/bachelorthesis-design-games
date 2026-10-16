@@ -1,17 +1,24 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "path:\"3 - Mechaniken in Design Games/Clustering\"  OR path:\"3 - Mechaniken in Design Games/Synthesis\"  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"3 - Mechaniken in Design Games\"  ",
+      "query": "path:\"3 - Mechaniken in Design Games/Synthesis\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"3 - Mechaniken in Design Games/Clustering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8049104
       }
     }
   ],
@@ -24,7 +31,7 @@
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 248,
   "scale": 0.6666666666666669,
   "close": true
 }

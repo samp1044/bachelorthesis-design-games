@@ -13,3 +13,8 @@ Provide a **shared language** of design to facilitate the meeting and mutual lea
 
 [[zhangAddressingCulturalInertias2024]]
 **Rules** of the design game **can quickly change the communication patterns** of participants. They **prompt players to voluntarily overcome unnecessary obstacles**, for example by prescribing **when and where players should explicitly discuss a certain theme** with stakeholders. This **creates a shift from implicit communication to more explicit communication** patterns. [p.8]
+
+----
+Seems more like a result than a mechanic -> [[Create common understanding]]
+
+Structured dialogue as own cluster?
