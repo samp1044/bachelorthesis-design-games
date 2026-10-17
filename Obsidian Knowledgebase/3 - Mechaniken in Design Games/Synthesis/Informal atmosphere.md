@@ -9,3 +9,10 @@ Creating a playful and safe environment through the use of a boardgame to lower 
 
 [[kjaersgaardDesignGamesFieldwork2021]]
 All four frames of a story were to be collected. This **caused lively discussions** about the stories among the participants. [p.11]
+
+----
+Design Games are played in an informal atmosphere, which is the most productive in create work.  -> [[Break existing habits]] / [[Come up with creative ideas]]
+
+Creating a playful and safe environment through the use of a boardgame to lower communication barriers in a group setting, e.g. by getting to know each other through sharing personal stories and interests -> [[Leveling Hierarchies]]
+
+All four frames of a story were to be collected. This **caused lively discussions** about the stories among the participants -> [[Leveling Hierarchies]]

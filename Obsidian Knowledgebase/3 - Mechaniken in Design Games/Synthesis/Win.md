@@ -22,3 +22,6 @@ Es wurden **Short-term und Long-term goals** eingesetzt. Long-term ist die gemei
 **Rules and tangible game pieces** guide the design process and there is **less emphasis on competition and winning** the game [p.3]
 
 A **winning condition and [[rules]]** to guide argumentation makes it **easier to reach consensus** in the design game, which is described as more troublesome in classic co-design workshops with strangers [p.7]
+
+---
+Put everything in  [[Come up with creative ideas]]

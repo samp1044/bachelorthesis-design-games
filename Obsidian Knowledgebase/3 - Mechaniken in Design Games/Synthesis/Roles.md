@@ -20,3 +20,9 @@ Dads-round: Additionally a [[dice]] is present with predefined roles (mother, si
 **Regeln** sind entscheidende Struktierungsinstanz des Spiels [p.11] [[Rules]]. Spieler fügen sich in **verregelte Rollen** ein, die ihnen bestimmte Spielräume einräumen. Regeln geben vor welchen Zweck die Spieler verfolgen, was Kriterien für Erfolg sind und welche Mittel zur Zielerreichung legitim sind [p.12] [[Win]]
 
 **Perspektivenwechsel** erfolgt für die Spielenden über das Gestalten von Aktionen als Reaktion auf die Aktionen anderer Spielenden [p.31]
+
+----
+**Role-play** activity. In performances, play and games the reactions of performers and audience are real, even though the actions that trigger these are fictional  -> [[Learn about particpants - Empathy]]
+
+Spieler fügen sich in **verregelte Rollen** ein, die ihnen bestimmte Spielräume einräumen
+**Perspektivenwechsel** erfolgt für die Spielenden über das Gestalten von Aktionen als Reaktion auf die Aktionen anderer Spielende -> [[Learn about particpants - Empathy]]

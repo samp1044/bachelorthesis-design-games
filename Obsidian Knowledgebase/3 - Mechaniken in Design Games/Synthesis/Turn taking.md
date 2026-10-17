@@ -17,3 +17,13 @@ Beispielspiel "Windschatten": In der **Rolle als Kommunikationswerkzeug** struku
 
 [[nymarkernstsenTechnologyCardsDesign2023]]
 Participants were asked to **take turns** selecting a card and placing it on a **central board** [p.9] [[Tangible Game Material]]
+
+---
+Turn taking allows participation on more equal terms, leveling [[Power relations]].  -> [[Leveling Hierarchies]]
+
+Turn taking, symbolized through a figure. Often used with the aim to equalize [[Power relations]]. It divides attention among human players.  -> [[Leveling Hierarchies]]
+
+**Turn taking** can have a levelling effect for participants, giving each player equal opportunity to take part in playing the game [p.7] This also breaks existing hierarchies, giving participants an equal footing among themselves [p.7].  -> [[Leveling Hierarchies]]
+
+Beispielspiel "Windschatten": In der **Rolle als Kommunikationswerkzeug** strukuriert und organisiert das Spiel über die **Runden** die Aktivitäten und Kommunikation der Spielenden [p.30] -> [[Come up with creative ideas]]
+

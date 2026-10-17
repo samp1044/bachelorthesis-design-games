@@ -5,4 +5,9 @@
 There might also be a time component added - goal is to make the broken game playable by the end of a 45-minute session [p.3]. [[Win]]
 
 [[fikarGroundedTheoryZur2023]]
-Der künstliche Konflikt im Spiel ist bei Design Games oft nicht der Konflikt gegeneinander, sondern oft geprägt vom Zusammenarbeiten der Beteiligten gegen die Spielregeln oder als "Kampf gegen die Uhr" [p.8-9]. [[Time keeping]]
+Der künstliche Konflikt im Spiel ist bei Design Games oft nicht der Konflikt gegeneinander, sondern oft geprägt vom Zusammenarbeiten der Beteiligten gegen die Spielregeln oder als "Kampf gegen die Uhr" [p.8-9]. [[Time keeping]] 
+
+---
+[[eriksenTakingDesignGames2014]] -> [[Come up with creative ideas]] & [[Leveling Hierarchies]]
+[[kessnerWickedPlayWicked2020]] -> [[Come up with creative ideas]]
+[[fikarGroundedTheoryZur2023]] -> [[Come up with creative ideas]] & [[Leveling Hierarchies]]

@@ -21,5 +21,11 @@ Acting as **boundary objects** between stakeholders in the design process, desig
 Often **people with different backgrounds, expertise, interests and professional languages** are included in co-design events [p.2]
 
 [[zhangAddressingCulturalInertias2024]]
-By engaging **users in a shared experience**, design games **encourage cross-disciplinary collaboration**. The **collective effort helps overcome rigid organizational structures** and **fosters a culture of openness and cooperation**. [p.3] [[Power relations]]
+By engaging **users in a shared experience**, design games **encourage cross-disciplinary collaboration**. The **collective effort helps overcome rigid organizational structures** and **fosters a culture of openness and cooperation**. [p.3] [[Power relations]] 
+
+---
+Klingt alles sehr nach -> [[Leveling Hierarchies]]
+Teile auch -> [[Break existing habits]]
+
+
 

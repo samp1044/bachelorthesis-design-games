@@ -129,3 +129,62 @@ Wenn du diese Cluster in deiner Arbeit vorstellst, kannst du sie entlang des **"
 4. Wie wird die eigentliche Design-Kreativität erzeugt? (**Cluster 4**)
 
 Fällt dir bei dieser Zuordnung auf, dass bestimmte Begriffe wie **'Win'** oder **Competing** bei den von dir gelesenen Autoren kontrovers diskutiert werden? Im _Participatory Design_ wird "Gewinnen" ja oft grundlegend anders definiert als im klassischen Spieldesign – möchtest du diesen Unterschied in deinem Kapitel besonders hervorheben?
+
+-----
+
+```
+i am trying to cluster mechanics about design games (e.g. from eva brandt) i identified through a literature research in their effects. I have for example identified for me the clusters "leveling power hierarchies" or "learn about participants / build empathy" among others. Note this are work in progress and titles etc. might be refined. I am also open to creating new clusters. I now struggle to put the finger on where to put "facilitation" and "design games designed for a specific context in mind" I see that these help to structure collaboration and can focus the session on a more specific goal/topic. However these are immediate effects for me, there is still a why after that for me. Why structure collaboration? Why focus on a specific goal? I identify that structuring collaboring has the effect of leveling power relations. Focus on a specific goal can have an effect of learning about participants. But I feel like there is a cluster missing this also has an effect on. Something along the lines of "structuring the session". But what for? Help me unblock my thinking and provide me with some ideas on what additional cluster these mechanics might have an effect of.
+```
+
+It sounds like you are deep in the messy, exciting middle of framework synthesis! It is completely normal to hit a wall when trying to separate the _mechanisms_ (how a game works) from its _proximate effects_ (what happens immediately) and its _ultimate effects_ (the deeper "why").
+
+When looking at **facilitation** and **context-specific design**, you are dealing with the "scaffolding" of the design game. If we push past the immediate effects of "structuring" and "focusing," here are a few potential ultimate effect clusters that might be missing from your framework:
+
+1. Creating Psychological Safety & Trust (The "Magic Circle")
+
+In co-design literature (drawing heavily from game studies), rules, constraints, and a facilitator create what Johan Huizinga calls the **"Magic Circle"**—a safe, temporary reality where normal social risks don't apply.
+
+- **Why structure/facilitate?** To lower the emotional and social stakes of participating.
+- **The Ultimate Effect:** When a session is highly structured, participants feel safe to look foolish, make mistakes, share wild ideas, and disagree without fear of professional or social consequences.
+- **Potential Cluster Title:** _Establishing Psychological Safety_ or _Democratizing Expressiveness_.
+
+2. Scaffolding Creativity & Overcoming Cognitive Inertia
+
+Elizabeth Sanders often talks about "scaffolding" to help non-designers access their creativity. Without structure, people default to what they already know, or they experience analysis paralysis.
+
+- **Why focus on a specific context/goal?** To ground abstract thinking into concrete reality so participants aren't overwhelmed by an infinite blank canvas.
+- **The Ultimate Effect:** It bypasses the "blank page syndrome" and forces a shift from everyday logical thinking to generative, imaginative, and lateral thinking.
+- **Potential Cluster Title:** _Scaffolding Creative Leap_ or _Overcoming Cognitive Inertia_.
+
+3. Aligning Mental Models & Creating Shared Language
+
+Design games frequently serve as **Boundary Objects** (Susan Leigh Star)—artifacts that inhabit several intersecting worlds and satisfy the informational requirements of each.
+
+- **Why structure the collaboration?** Because a software engineer, a CEO, and an end-user have completely different mental models of the same problem.
+- **The Ultimate Effect:** Facilitation and tailored game constraints force these diverse stakeholders to translate their tacit (hidden) knowledge into a shared, tangible language. It moves the group from individual monologues to a synchronized dialogue.
+- **Potential Cluster Title:** _Synthesizing Diverse Mental Models_ or _Establishing a Shared Artifact Language_.
+
+4. Transitioning from Reflection to Action (Tangibility)
+
+Co-design can easily devolve into an endless talking shop. Facilitation and context-driven constraints force a strict temporal and physical boundary on the conversation.
+
+- **Why structure the session tightly?** To force a bias toward action.
+- **The Ultimate Effect:** It externalizes internal thoughts into physical, visual, or performative components (like Brandt's focus on materials and staging). It forces participants to stop arguing abstractly and start negotiating concretely.
+- **Potential Cluster Title:** _Driving Tangibility & Action_ or _Externalizing Tacit Knowledge_.
+
+Summary for your Framework
+
+If your existing clusters are:
+
+1. _Leveling power hierarchies_ (Political/Social effect)
+2. _Learning about participants / building empathy_ (Relational/Informational effect)
+
+You might be missing the **Cognitive/Creative** and **Operational/Safety** dimensions. Consider adding:
+
+- **Managing Cognitive Load & Safety:** (Why we facilitate/structure \(\rightarrow \) to make it safe and easy to participate).
+- **Aligning & Externalizing Mental Models:** (Why we contextualize/focus \(\rightarrow \) to turn abstract, messy individual thoughts into shared, tangible alignment).
+
+To help refine this further, could you share:
+
+- A few **other mechanics** you have already successfully placed?
+- The **ultimate goal of your research** (e.g., is this framework for designers to pick games, or for researchers to analyze them)?

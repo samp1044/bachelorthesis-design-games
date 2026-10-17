@@ -12,4 +12,11 @@ Interaktives Interpretieren der Regeln berichtet über die Spielenden und ihre P
 Design Games sind abgeschlossene Interaktionssysteme. Das erzeugt ein Spannungsverhältnis zwischen offener Interpretation und den erwarteten Ergebnissen des Design Games [p.9]. Design Games schlagen Brücken zum Alltag der Teilnehmenden um Schlüsse über diesen zu ermöglichen [p.9].
 
 [[zhangAddressingCulturalInertias2024]]
-**Rules** of the design game **can quickly change the communication patterns** of participants. They **prompt players to voluntarily overcome unnecessary obstacles**, for example by prescribing **when and where players should explicitly discuss a certain theme** with stakeholders. This **creates a shift from implicit communication to more explicit communication** patterns. [p.8]
+**Rules** of the design game **can quickly change the communication patterns** of participants. They **prompt players to voluntarily overcome unnecessary obstacles**, for example by prescribing **when and where players should explicitly discuss a certain theme** with stakeholders. This **creates a shift from implicit communication to more explicit communication** patterns. [p.8] 
+
+---
+By **enacting** the [[scenarios]] the different approaches, agendas, choices of scenes of the participants get visible -> [[Learn about particpants - Empathy]]
+
+Story-card game responses -> [[Learn about particpants - Empathy]]
+
+

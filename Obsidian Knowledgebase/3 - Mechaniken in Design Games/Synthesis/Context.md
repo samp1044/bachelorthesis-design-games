@@ -16,3 +16,5 @@ Mechanik wäre "Designed for the specific Context"
 Effekt? 
 
 Design games are often specifically designed for a specific context. Which decides for example which participants are needed.
+
+I would put it into [[Come up with creative ideas]]

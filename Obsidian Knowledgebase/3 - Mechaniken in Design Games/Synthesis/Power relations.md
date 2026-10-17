@@ -27,3 +27,6 @@ Using the design game structured the conversations and opened a more constructiv
 By engaging **users in a shared experience**, design games **encourage cross-disciplinary collaboration**. The **collective effort helps overcome rigid organizational structures** and **fosters a culture of openness and cooperation**. [p.3]
 
 Immersing **stakeholders in the mindset of play**, it appears that **their power distances are blended and balanced**. The ludic drive might be behind this transition. [p.8]
+
+----
+Mehr ein Resultat aus Mechaniken. Wenn noch nicht bereits aufgeteilt -> Zitate aufgeteilt auf die bestehenden Cluster..

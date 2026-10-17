@@ -41,3 +41,22 @@ Design [[cards]] offer an approachable way to introduce information. [p.2] [[Tan
 **Cards were randomly drawed** and provided **a starting point** on which to build the scenario [p.4]. Additional cards **introduced challenges** to incorporate in this [[scenario]] which sparked interesting discussions and caused some scenarios to be re-designed [p.4]
 
 **Cards sparked creativity to build upon the initial idea** [p.6]. The cards had the **right amount of ambiguity** for that [p.6]. **Balance of openness and preciseness of the rules** of using the cards is found beneficial [p.6]
+
+---
+A question, e.g. from a [[cards]], might be used to spark further discussion / dialogue. 
+[[User game]] [[Open ended]] fragments are provided as Input to allow room for interpretation. -> [[Come up with creative ideas]]
+
+It matters what framing the Sign cards provide for the outcome of the game. -> [[Break existing habits]]
+
+Proposals for the Design are sent beforehand to the participants. 
+Preselected and preprinted Controversity Gameboard [[Game pieces]] - set a topic for dialogue and negotiations. Also preprinted proposals so participants can point towards details during discussions. -> [[Create common understanding]]
+
+**Predesigned material** is of great help in setting a frame and starting points for the design collaboration
+**Open-ended and ambiguous tasks** help participants to propose new interpretations and alternative solutions -> [[Come up with creative ideas]]
+
+**Initial individual brainstorming** of challenges that are then presented to each other and clustered. For inspiration **index cards** with different artifacts, pictures and words were placed in front of them -> [[Come up with creative ideas]]
+
+Some [[Cards]] may also summarize good design practice to hint designers/participants towards it during a design session -> [[Come up with creative ideas]]
+
+**Cards were randomly drawed** and provided **a starting point** on which to build the scenario [p.4]. Additional cards **introduced challenges** to incorporate in this [[scenario]] which sparked interesting discussions and caused some scenarios to be re-designed [p.4]
+**Cards sparked creativity to build upon the initial idea** [p.6]. The cards had the **right amount of ambiguity** for that [p.6]. **Balance of openness and preciseness of the rules** of using the cards is found beneficial [p.6] -> [[Come up with creative ideas]]

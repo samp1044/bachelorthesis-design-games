@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Mechaniken in Design Games/Synthesis/Context.md",
+                "file": "3 - Mechaniken in Design Games/Clustering/Come up with creative ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context"
+              "title": "Come up with creative ideas"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
+                "file": "3 - Mechaniken in Design Games/Synthesis/Win.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn about particpants - Empathy"
+              "title": "Win"
             }
           }
         ]
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 265.5
   },
   "right": {
     "id": "127b4dce344643dc",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Mechaniken in Design Games/Clustering/Common understanding.md",
+                "file": "3 - Mechaniken in Design Games/Synthesis/Win.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
+                "file": "3 - Mechaniken in Design Games/Synthesis/Win.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,8 +190,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,32 +210,32 @@
   },
   "active": "1bfac0a90f9a6f87",
   "lastOpenFiles": [
-    "3 - Mechaniken in Design Games/Synthesis/Context.md",
-    "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
-    "3 - Mechaniken in Design Games/Clustering/Create common understanding.md",
-    "3 - Mechaniken in Design Games/Clustering/AI Notes.md",
-    "3 - Mechaniken in Design Games/Clustering/Leveling Hierarchies.md",
-    "3 - Mechaniken in Design Games/Synthesis/Competing.md",
     "3 - Mechaniken in Design Games/Clustering/Come up with creative ideas.md",
-    "3 - Mechaniken in Design Games/Synthesis/Common language.md",
-    "3 - Mechaniken in Design Games/Synthesis/Combining elements that do not fit together.md",
+    "3 - Mechaniken in Design Games/Synthesis/Win.md",
+    "3 - Mechaniken in Design Games/Clustering/Create common understanding.md",
+    "3 - Mechaniken in Design Games/Clustering/Leveling Hierarchies.md",
+    "3 - Mechaniken in Design Games/Synthesis/Turn taking.md",
+    "3 - Mechaniken in Design Games/Synthesis/Time keeping.md",
+    "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
+    "3 - Mechaniken in Design Games/Synthesis/Tangible Game Material.md",
     "3 - Mechaniken in Design Games/Clustering/Break existing habits.md",
-    "3 - Mechaniken in Design Games/Synthesis/Chance.md",
-    "3 - Mechaniken in Design Games/Synthesis/Boundary object.md",
-    "3 - Mechaniken in Design Games/Synthesis/Agenda.md",
-    "3 - Mechaniken in Design Games/Synthesis/Actors.md",
-    "3 - Mechaniken in Design Games/Synthesis/Acting.md",
+    "3 - Mechaniken in Design Games/Synthesis/Split in groups.md",
+    "3 - Mechaniken in Design Games/Synthesis/Space Setup.md",
+    "3 - Mechaniken in Design Games/Synthesis/Scenarios.md",
     "3 - Mechaniken in Design Games/Synthesis/Abstracted.md",
+    "3 - Mechaniken in Design Games/Synthesis/Rules.md",
+    "Papers/vaajakallioDesignGamesCodesign2014.md",
+    "3 - Mechaniken in Design Games/Synthesis/Roles.md",
+    "3 - Mechaniken in Design Games/Synthesis/Power relations.md",
     "3 - Mechaniken in Design Games/Synthesis/Participant concepts.md",
     "3 - Mechaniken in Design Games/Synthesis/Open ended.md",
-    "3 - Mechaniken in Design Games/Synthesis/Input.md",
-    "Papers/kjaersgaardDesignGamesFieldwork2021.md",
-    "3 - Mechaniken in Design Games/Clustering.md",
     "3 - Mechaniken in Design Games/Synthesis/Negotiation.md",
-    "3 - Mechaniken in Design Games/Clustering/Power Relations & Collaboration.md",
-    "2 - Kategorisierung von Design Games/Welche Kategorien gibt es von Design Games.md",
-    "3 - Mechaniken in Design Games/Synthesis/Rules.md",
-    "3 - Mechaniken in Design Games/Synthesis/Roles.md",
+    "3 - Mechaniken in Design Games/Synthesis/Magic if.md",
+    "3 - Mechaniken in Design Games/Synthesis/Magic circle.md",
+    "3 - Mechaniken in Design Games/Synthesis/Involving Stakeholders.md",
+    "Papers/nymarkernstsenTechnologyCardsDesign2023.md",
+    "3 - Mechaniken in Design Games/Clustering/Unclustered Mechanics.md",
+    "3 - Mechaniken in Design Games/Synthesis/Input.md",
     "3 - Mechaniken in Design Games/Clustering"
   ]
 }

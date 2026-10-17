@@ -26,3 +26,6 @@ Also **additional empty [[Cards]]** to allow users to add technologies of their 
 **Design games are often designed iteratively and with user participation as workshop** [p.2]. 
 
 **Cards sparked creativity to build upon the initial idea** [p.6]. The cards had the **right amount of ambiguity** for that [p.6]. **Balance of openness and preciseness of the rules** of using the cards is found beneficial [p.6]
+
+---
+Mischung aus [[Leveling Hierarchies]] und [[Come up with creative ideas]]

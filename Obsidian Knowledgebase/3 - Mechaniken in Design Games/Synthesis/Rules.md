@@ -34,3 +34,6 @@ Since **Rules** are easily associated with board and card games, they work as a 
 A **[[Win]]ning condition and rules** to guide argumentation makes it **easier to reach consensus** in the design game, which is described as more troublesome in classic co-design workshops with strangers [p.7]
 
 **Rules** of the design game **can quickly change the communication patterns** of participants. They **prompt players to voluntarily overcome unnecessary obstacles**, for example by prescribing **when and where players should explicitly discuss a certain theme** with stakeholders. This **creates a shift from implicit communication to more explicit communication** patterns. [p.8]
+
+----
+Aufgeteilt auf mehrere Bereiche, bereits viele Überschneidungen mit bereits übernommenen Zitaten. 
