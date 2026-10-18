@@ -25,6 +25,8 @@ Oft sind **Spiele bis zum Ende offen** für neue Wendungen durch Elemente des **
 
 **Cards were randomly drawed** and provided **a starting point** on which to build the scenario [[bunaesRulesPlayBalance2024]]
 
+---
+
 [[Combining elements that do not fit together]]
 From the surrealist movement. Some creativity techniques are based on combining elements which normally do not fit together. [[brandtDesigningExploratoryDesign2006]]
 
@@ -115,7 +117,7 @@ The **game board** seemed to help and limit the solutions participants came up w
 
 Geistesblitz bildet sich im Zusammenspiel mit den materiellen Artefakten des Spiels aus: Spielfeldern, Linien, Sitzmöglichkeiten, die anderen Teilnehmenden [[fikarGroundedTheoryZur2023]]
 
-hysical gestures** involved in **holding, moving and grouping cards** can aid cognition and help simplify the complexity of a design problem [[nymarkernstsenTechnologyCardsDesign2023]]
+physical gestures** involved in **holding, moving and grouping cards** can aid cognition and help simplify the complexity of a design problem [[nymarkernstsenTechnologyCardsDesign2023]]
 
 ---
 [[Time keeping]]
