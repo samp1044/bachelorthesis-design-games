@@ -50,6 +50,34 @@
             }
           },
           {
+            "id": "edb4cb3f97fddb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learn about particpants - Empathy"
+            }
+          },
+          {
+            "id": "8df43618047ec2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Mechaniken in Design Games/Clustering/Leveling Hierarchies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leveling Hierarchies"
+            }
+          },
+          {
             "id": "0da3a770ae41335f",
             "type": "leaf",
             "state": {
@@ -64,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "127b4dce344643dc",
@@ -232,14 +259,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "18a66e2314b21478",
+  "active": "8df43618047ec2d0",
   "lastOpenFiles": [
+    "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
+    "Papers/kjaersgaardDesignGamesFieldwork2021.md",
     "3 - Mechaniken in Design Games/Clustering/AI Notes.md",
     "3 - Mechaniken in Design Games/Clustering/Create common understanding.md",
     "3 - Mechaniken in Design Games/Clustering/Come up with creative ideas.md",
     "3 - Mechaniken in Design Games/Clustering/Break existing habits.md",
     "3 - Mechaniken in Design Games/Clustering/Leveling Hierarchies.md",
-    "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
     "3 - Mechaniken in Design Games/Synthesis/Win.md",
     "3 - Mechaniken in Design Games/Synthesis/Turn taking.md",
     "3 - Mechaniken in Design Games/Synthesis/Time keeping.md",
@@ -259,7 +287,6 @@
     "3 - Mechaniken in Design Games/Synthesis/Magic circle.md",
     "3 - Mechaniken in Design Games/Synthesis/Involving Stakeholders.md",
     "Papers/nymarkernstsenTechnologyCardsDesign2023.md",
-    "3 - Mechaniken in Design Games/Clustering/Unclustered Mechanics.md",
     "3 - Mechaniken in Design Games/Clustering"
   ]
 }
