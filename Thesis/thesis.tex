@@ -34,6 +34,7 @@
 \usepackage[inline]{enumitem} % User control over the layout of lists (itemize, enumerate, description).
 \usepackage{multirow}   % Allows table elements to span several rows.
 \usepackage{booktabs}   % Improves the typesetting of tables.
+\usepackage{makecell}
 \usepackage{subcaption} % Allows the use of subfigures and enables their referencing.
 \usepackage[ruled,linesnumbered,algochapter]{algorithm2e} % Enables the writing of pseudo code.
 \usepackage[dvipsnames,table]{xcolor} % Allows the definition and use of colors. This package has to be included before tikz.
@@ -139,10 +140,57 @@ provide a starting point for facilitating user participation and contribution.
     % Design Games sind sehr unterschiedlich und oft auf den Kontex für den sie erstellt worden angepasst. 
     % Clustering nach dem Effekt der Mechanik
     \section{Mechanics of Design Games}
-    Throughout the literature review a number of reoccuring mechanics have been identified. 
-    The mechanics are subsequently clustered in 4 Clusters of effects they have on co-design sessions 
-    using design games. Many mechanics can be attributed to multiple effects and are 
-    therefore included in more than one cluster. Mechanics are ordered alphabetically. 
+    Design games are most of the time purpose-build for a specific design context \cite{brandtDesigningExploratoryDesign2006}. 
+    Various frameworks have been proposed in the co-design literature to provide building blocks for the development 
+    of design games \cite{brandtDesigningExploratoryDesign2006,vaajakallioDesignGamesCodesign2014}. 
+    Nonetheless, through the literature review done in this thesis a set of 22 recurring mechanics have been identified.  
+
+    For further analysis, these mechanics were grouped into five clusters according to the effects they have 
+    when employed in a co-design workshop. A single mechanic can be attributed to multiple effects, depending on 
+    the lens it is viewed through. Those mechanics are grouped into more than one cluster of effects. For each mechanic 
+    a brief explanation grounded in the literature describes its connection with the effect it is attributed for. 
+
+    Table~\ref{tab:mechanics} provides an overview of the identified mechanics and their respective cluster assignments. 
+
+    \begin{table}
+        \begin{tabular}{lccccc}
+            \toprule
+                Mechanic
+                & \makecell{Break\\habits}
+                & \makecell{Generate\\ideas}
+                & \makecell{Build shared\\understanding}
+                & \makecell{Learn\\participant\\concepts}
+                & \makecell{Address power\\relations} \\
+            \midrule
+                Abstraction             &   & x & x & x &   \\
+                Acting                  &   &   &   & x & x \\
+                Boundary objects        &   & x & x & x &   \\
+                Chance                  & x & x &   & x & x \\
+                \makecell{Combining elements\\that do not fit together} & x & x &   &   &   \\
+                Competition             &   &   &   &   & x \\
+                Design context          &   & x &   &   &   \\
+                \makecell{Establishing an\\informal atmosphere} &   & x &   &   &   \\
+                Facilitation            & x & x &   &   & x \\
+                Fun                     &   &   &   &   & x \\
+                Game rules              & x & x & x & x & x \\
+                Involving stakeholders  & x &   &   &   &   \\
+                Magic circle            & x &   &   &   &   \\
+                Magic if                &   &   &   & x &   \\
+                Open-endedness          &   & x &   &   & x \\
+                Participant concepts    &   &   &   & x &   \\
+                Presupplied input       & x & x & x &   &   \\
+                Scenarios               &   & x &   &   &   \\
+                Tangible game material  & x & x & x & x &   \\
+                Time keeping            &   & x &   &   & x \\
+                Turn taking             &   &   &   &   & x \\
+                Win condition           &   & x &   &   &   \\
+
+
+            \bottomrule
+        \end{tabular}
+        \caption{Identified mechanics and the cluster of effect they are attributed to. Ordered alphabetically.}
+        \label{tab:mechanics}
+    \end{table}
 
         \subsection{Break existing habits}
         Breaking existing habits is a shift from everday logical thinking to generative, 
@@ -398,7 +446,12 @@ provide a starting point for facilitating user participation and contribution.
             
 
         \subsection{Discussion}
-        Analysieren warum bestimmte Mechaniken in fast jedem Paper auftauchen. 
+        Table~\ref{tab:mechanics} shows that the mechanic Game rules is part of every design game analysed.  
+        The mechanics Chance, Game rules, Tangible game material appear in almost every 
+        cluster (4 out of 5). It can be argued that those are, despite the different contexts design games are usually 
+        designed for, core components of most, if not all, design games. 
+
+        Mechanics Abstraction, Boundary objects, 
 
 \section{Benefits}
 \section{Problems and Issues}
