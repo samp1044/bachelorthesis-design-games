@@ -16,6 +16,10 @@ This paper aims to compose a literature review to obtain the title "Bachelor of 
 | Thesis | Contains the latex source for the paper, as well as the most recently build paper as `pdf` |
 | Obsidian Knowledgebase | Contains the [Obsidian Vault](https://obsidian.md/) used for synthesis concepts |
 
+## Thesis Template
+
+The following template was used for composing this thesis: https://gitlab.com/ThomasAUZINGER/vutinfth. 
+
 ## Current Paper
 
 The current paper can be found as `.pdf`-Document in `Thesis/thesis.pdf`. Every once and a while a milestone is also published as **Release**.
