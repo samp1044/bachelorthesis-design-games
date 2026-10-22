@@ -9,7 +9,7 @@
 
 % Define convenience functions to use the author name and the thesis title in the PDF document properties.
 \newcommand{\authorname}{Sami Pasquali} % The author name without titles.
-\newcommand{\thesistitle}{Design Games} % The title of the thesis. The English version should be used, if it exists.
+\newcommand{\thesistitle}{Design Games and their application in creative processes} % The title of the thesis. The English version should be used, if it exists.
 
 % Create the XMP metadata file for the creation of PDF/A compatible documents.
 \begin{filecontents*}[overwrite]{\jobname.xmpdata}
@@ -43,6 +43,8 @@
 \usepackage{morewrites} % Increases the number of external files that can be used.
 \usepackage[a-2b,mathxmp]{pdfx}      % Enables PDF/A compliance. Loads the package hyperref and has to be included second to last.
 \usepackage[acronym,toc]{glossaries} % Enables the generation of glossaries and lists of acronyms. This package has to be included last.
+\usepackage{listings}
+\lstset{breaklines=true, basicstyle=\ttfamily}
 
 % Set PDF document properties
 \hypersetup{
@@ -64,13 +66,13 @@
 %  {title before name}{name}{title after name}{gender}
 %  where both titles are optional (i.e. can be given as empty brackets {}).
 \setauthor{}{\authorname}{}{}
-\setadvisor{Pretitle}{Hilda Tellioğlu}{Posttitle}{female}
+\setadvisor{Associate Prof. Dipl.-Ing.in Dr.in techn.}{Hilda Tellioğlu}{}{female}
 
 % Required data.
 \setregnumber{11809912}
-\setdate{30}{09}{2026} % Set date with 3 arguments: {day}{month}{year}.
-\settitle{\thesistitle}{Design Games} % Sets English and German version of the title (both can be English or German). If your title contains commas, enclose it with additional curvy brackets (i.e., {{your title}}) or define it as a macro as done with \thesistitle.
-\setsubtitle{}{} % Sets English and German version of the subtitle (both can be English or German).
+\setdate{31}{10}{2026} % Set date with 3 arguments: {day}{month}{year}.
+\settitle{\thesistitle}{Design Games und ihre Anwendung in kreativen Prozessen} % Sets English and German version of the title (both can be English or German). If your title contains commas, enclose it with additional curvy brackets (i.e., {{your title}}) or define it as a macro as done with \thesistitle.
+%\setsubtitle{}{A literature review of design games, their mechanics, applications in different domains and application in the greater Design Thinking context} % Sets English and German version of the subtitle (both can be English or German).
 
 % Select the thesis type: bachelor / master / doctor.
 % Bachelor:
@@ -127,23 +129,26 @@
 % Switch to arabic numbering and start the enumeration of chapters in the table of content.
 \mainmatter
 
-\chapter{Design Games}
-\cite{brandtDesigningExploratoryDesign2006} describes Design games as a way of organizing participation 
-in design projects. \cite{triantafyllakosDesigningEducationalSoftware2011} notes that they (Design Games) 
-provide a starting point for facilitating user participation and contribution. 
+    \chapter{Design Games}
+    Intro about design games. Maybe this is superficial and just repeats Defining Design Games. 
 
-\section{History}
-\section{Connection to Games}
-    \section{Categories and Classification of Design Games}
+    \cite{brandtDesigningExploratoryDesign2006} describes Design games as a way of organising participation 
+    in design projects. \cite{triantafyllakosDesigningEducationalSoftware2011} notes that they (Design Games) 
+    provide a starting point for facilitating user participation and contribution. 
 
-    % Kurzer Einleitungstext. Synthese Ansatz. Gesamtzahl der Mechaniken. Nach welchen Kriterien hab ich sie geclustert? 
-    % Design Games sind sehr unterschiedlich und oft auf den Kontex für den sie erstellt worden angepasst. 
-    % Clustering nach dem Effekt der Mechanik
-    \section{Mechanics of Design Games}
-    Design games are most of the time purpose-build for a specific design context \cite{brandtDesigningExploratoryDesign2006}. 
+        \section{The evolution of play in collaborative design}
+        Design Game history. Optional.
+
+        \section{Defining Design Games: Play, Gamification, and Serious Games}
+        
+        \section{Methodological Classifications and Frameworks}
+        Kategorisierung von \cite{brandtDesigningExploratoryDesign2006} und \cite{vaajakallioDesignGamesCodesign2014}.
+
+        \section{Mechanics of Design Games}
+    Design games are most of the time purpose-built for a specific design context \cite{brandtDesigningExploratoryDesign2006}. 
     Various frameworks have been proposed in the co-design literature to provide building blocks for the development 
     of design games \cite{brandtDesigningExploratoryDesign2006,vaajakallioDesignGamesCodesign2014}. 
-    Nonetheless, through the literature review done in this thesis a set of 22 recurring mechanics have been identified.  
+    Nonetheless, through the literature review done in this thesis, a set of 22 recurring mechanics have been identified.  
 
     For further analysis, these mechanics were grouped into five clusters according to the effects they have 
     when employed in a co-design workshop. A single mechanic can be attributed to multiple effects, depending on 
@@ -153,33 +158,35 @@ provide a starting point for facilitating user participation and contribution.
     Table~\ref{tab:mechanics} provides an overview of the identified mechanics and their respective cluster assignments. 
 
     \begin{table}
-        \begin{tabular}{lccccc}
+        \rowcolors{2}{white}{gray!10} 
+        \begin{tabular}{l|ccccc}
             \toprule
                 Mechanic
-                & \makecell{Break\\habits}
-                & \makecell{Generate\\ideas}
-                & \makecell{Build shared\\understanding}
-                & \makecell{Learn\\participant\\concepts}
-                & \makecell{Address power\\relations} \\
+                & \makecell{Break\\existing\\habits}
+                & \makecell{Come up\\with\\creative\\ideas}
+                & \makecell{Create\\common\\understanding}
+                & \makecell{Learn\\about\\concepts\\participants\\hold}
+                & \makecell{Overcome\\power\\relations} \\
             \midrule
                 Abstraction             &   & x & x & x &   \\
                 Acting                  &   &   &   & x & x \\
                 Boundary objects        &   & x & x & x &   \\
                 Chance                  & x & x &   & x & x \\
-                \makecell{Combining elements\\that do not fit together} & x & x &   &   &   \\
+                \makecell[l]{Combining elements\\that do not fit together} & x & x &   &   &   \\
                 Competition             &   &   &   &   & x \\
                 Design context          &   & x &   &   &   \\
-                \makecell{Establishing an\\informal atmosphere} &   & x &   &   &   \\
+                \makecell[l]{Establishing an\\informal atmosphere} &   & x &   &   &   \\
                 Facilitation            & x & x &   &   & x \\
-                Fun                     &   &   &   &   & x \\
+                Fun                     & x &   &   &   & x \\
                 Game rules              & x & x & x & x & x \\
-                Involving stakeholders  & x &   &   &   &   \\
+                Involving stakeholders  & x &   &   &   & x \\
                 Magic circle            & x &   &   &   &   \\
                 Magic if                &   &   &   & x &   \\
                 Open-endedness          &   & x &   &   & x \\
                 Participant concepts    &   &   &   & x &   \\
                 Presupplied input       & x & x & x &   &   \\
                 Scenarios               &   & x &   &   &   \\
+                \makecell[l]{Split participants in\\groups}    &   & x &   &   &   \\
                 Tangible game material  & x & x & x & x &   \\
                 Time keeping            &   & x &   &   & x \\
                 Turn taking             &   &   &   &   & x \\
@@ -188,12 +195,12 @@ provide a starting point for facilitating user participation and contribution.
 
             \bottomrule
         \end{tabular}
-        \caption{Identified mechanics and the cluster of effect they are attributed to. Ordered alphabetically.}
+        \caption{Identified mechanics and the cluster of effect they are attributed to. Mechanics are ordered alphabetically.}
         \label{tab:mechanics}
     \end{table}
 
         \subsection{Break existing habits}
-        Breaking existing habits is a shift from everday logical thinking to generative, 
+        Breaking existing habits is a shift from everyday logical thinking to generative, 
         imaginative and lateral thinking. It grounds abstract thinking into a concrete 
         reality so participants aren't overwhelmed by a blank canvas and overcomes potential 
         power relations participants are usually part of. 
@@ -208,7 +215,7 @@ provide a starting point for facilitating user participation and contribution.
             associations, suggestions or actions written and/on illustrated on cards" \cite{royCardbasedDesignTools2019}
 
             \subsubsection{Element of fun \& Ludic drive}
-            Players are absorpted in play. This is commonly referred to as the "Fun element" \cite{brandtDesigningExploratoryDesign2006}. 
+            Players are absorbed in play. This is commonly referred to as the "Fun element" \cite{brandtDesigningExploratoryDesign2006}. 
 
             \subsubsection{Facilitation}
             A facilitator can leave out elements to increase the focus more on a specific topic or influence 
@@ -216,7 +223,7 @@ provide a starting point for facilitating user participation and contribution.
 
             \subsubsection{Game rules}
             Design games establish a distinct space for creative exploration that is separate from everyday life. This space 
-            is created by the games rules, which define the objectives, criteria of success and allowed actions for the role 
+            is created by the game's rules, which define the objectives, criteria of success and allowed actions for the role 
             players adopt during game playing \cite{fikarGroundedTheoryZur2023}. 
             Furthermore, rules help to establish structured discussions which is shown to make it easier for participants 
             to reach consensus \cite{zhangAddressingCulturalInertias2024}. 
@@ -258,7 +265,7 @@ provide a starting point for facilitating user participation and contribution.
 
             \subsubsection{Combining elements that do not fit together}
             Combining elements that normally do not fit together is a technique that can be used to spark creativity \cite{brandtDesigningExploratoryDesign2006}. 
-            Another approach is to violate known information by, for example, placing cards wrongly. This causes the brains 
+            Another approach is to violate known information by, for example, placing cards wrongly. This causes the brain's 
             creativity to repair the violation in an ad-hoc manner \cite{royCardbasedDesignTools2019}. 
             
             \subsubsection{Design Context}
@@ -376,9 +383,13 @@ provide a starting point for facilitating user participation and contribution.
             Elements of chance, for example a dice throw, can be used to, for example, select a role through their perspective participants 
             should then discuss a story. This allows participants to empathize with this role. \cite{kjaersgaardDesignGamesFieldwork2021}
 
+            \subsubsection{Game rules}
+            Participants interpret rules against the background of their own experiences and expectations, allowing those to become 
+            explicit \cite{fikarGroundedTheoryZur2023}. 
+
             \subsubsection{Magic if}
             The magic if describes the question of "if this person is in this situation - how would she react?". When enacting scenarios, 
-            actors frequently need to ask themself this question which increases empathy for the role choosen to enact 
+            actors frequently need to ask themselves this question which increases empathy for the role chosen to enact 
             \cite{brandtDesigningExploratoryDesign2006}. 
 
             \subsubsection{Participant concepts}
@@ -386,15 +397,10 @@ provide a starting point for facilitating user participation and contribution.
             challenge perspectives of both participants and researchers. Reactions and outcome from involving stakeholders can be 
             surprisingly unfamiliar and different from what researchers initially expect \cite{kjaersgaardDesignGamesFieldwork2021}. 
 
-            \subsubsection{Rules}
-            Participants interpret rules against the background of their own experiences and expectations, allowing those to become 
-            explicit \cite{fikarGroundedTheoryZur2023}. 
-
             \subsubsection{Tangible game material}
-            Tangible game pieces allow participants to use more of their senses. They make concepts and throught processes explicit and 
+            Tangible game pieces allow participants to use more of their senses. They make concepts and thought processes explicit and 
             allow more reflection \cite{brandtDesigningExploratoryDesign2006}. Certain game pieces also allow participants to think through 
             the eyes of a different role \cite{gudiksenExplicatingStakeholderCriteria2017}. 
-
 
         \subsection{Overcome power relations \& Lower communication barriers in a group setting}
         Participatory design aims to include affected stakeholders in the design process and thus equalize power relations. Various 
@@ -421,6 +427,11 @@ provide a starting point for facilitating user participation and contribution.
             The game like format of design games seems to balance usual power relations between participants and stakeholders \cite{gudiksenExplicatingStakeholderCriteria2017}, 
             \cite{zhangAddressingCulturalInertias2024}. It also shows a lower entry barrier for participants to join discussions \cite{nymarkernstsenTechnologyCardsDesign2023}. 
 
+            \subsubsection{Game Rules}
+            Adhering to game rules minimizes power imbalances between participants \cite{brandtFacilitatingCollaborationDesign2004a}, \cite{brandtDesigningExploratoryDesign2006}. 
+            Rules alter standard communication patterns by encouraging players to willingly navigate obstacles, such as following specific guidelines 
+            on when to engage in explicit discussions with stakeholders \cite{zhangAddressingCulturalInertias2024}. 
+
             \subsubsection{Involve stakeholders}
             Participatory design tools, like design games, encourage stakeholders and users to participate, which encourages 
             cross-disciplinary collaboration \cite{nymarkernstsenTechnologyCardsDesign2023}, \cite{zhangAddressingCulturalInertias2024}. 
@@ -430,11 +441,6 @@ provide a starting point for facilitating user participation and contribution.
             \subsubsection{Open-endedness}
             The open-endedness of assignments and tasks in design games allows participant to interpret them and thus exercise 
             influence on what to focus on in the design \cite{brandtDesigningExploratoryDesign2006}.
-
-            \subsubsection{Rules}
-            Adhering to game rules minimizes power imbalances between participants \cite{brandtFacilitatingCollaborationDesign2004a}, \cite{brandtDesigningExploratoryDesign2006}. 
-            Rules alter standard communication patterns by encouraging players to willingly navigate obstacles, such as following specific guidelines 
-            on when to engage in explicit discussions with stakeholders \cite{zhangAddressingCulturalInertias2024}. 
 
             \subsubsection{Time keeping}
             Enforcing time rules allows to equally distribute time between players taking turns or between issues to discuss \cite{eriksenTakingDesignGames2014}. 
@@ -446,18 +452,50 @@ provide a starting point for facilitating user participation and contribution.
             
 
         \subsection{Discussion}
-        Table~\ref{tab:mechanics} shows that the mechanic Game rules is part of every design game analysed.  
-        The mechanics Chance, Game rules, Tangible game material appear in almost every 
-        cluster (4 out of 5). It can be argued that those are, despite the different contexts design games are usually 
-        designed for, core components of most, if not all, design games. 
+        Table~\ref{tab:mechanics} shows that the mechanic \lstinline|Game rules| can be attributed to every effect cluster. 
+        This hints at the essential role \lstinline|Game rules| play in design games. They structure the game play and define 
+        what is possible while simultaneously lowering power differences \cite{brandtFacilitatingCollaborationDesign2004a,vaajakallioDesignGamesCodesign2014,fikarGroundedTheoryZur2023}. 
 
-        Mechanics Abstraction, Boundary objects, 
+        A central role can also be attributed to the mechanics \lstinline|Chance| and \lstinline|Tangible game material| which can be attributed 
+        to four effects respectively. 
+        \lstinline|Chance| can capture players by surprise and be attributed to the surrealist movement \cite{brandtDesigningExploratoryDesign2006}, 
+        but also plays a central role in equalizing power relations by taking away certain decisions, sparking creativity through random input 
+        and break existing habits \cite{hatamiFacilitatingServiceInteractions2016,kjaersgaardDesignGamesFieldwork2021,bunaesRulesPlayBalance2024}. 
+        \lstinline|Tangible game material| are a central element to Games in general. Be it a game board, game pieces, cards, dice or props used 
+        for enacting scenarios - Games use tangible game pieces. They fulfill multiple roles: On one hand physcial pieces allow everyone 
+        to see the current state of game and discussion \cite{brandtFacilitatingCollaborationDesign2004a,eriksenTakingDesignGames2014,gudiksenExplicatingStakeholderCriteria2017}. 
+        Most of the time they are also abstracted and can be interpreted in multiple ways, while at the same time establishing common 
+        ground between participants with different backgrounds \cite{brandtDesigningExploratoryDesign2006}. By doing so abstracted game 
+        pieces function as \lstinline|Boundary objects| and are thus interconnected with the mechanics \lstinline|Abstraction| and \lstinline|Boundary objects|.
+        Lastly, they also support creativity by allowing out-of-the-ordinary connections to be drawn by physically manipulating pieces or cards 
+        \cite{hatamiFacilitatingServiceInteractions2016,nymarkernstsenTechnologyCardsDesign2023}.
 
-\section{Benefits}
-\section{Problems and Issues}
-\chapter{Examples of Design Game and their use in different domains}
-\chapter{Design Games in Design Thinking}
-\section{Opportunities for Design Game use}
+        \lstinline|Abstraction| and \lstinline|Boundary objects| are closely connected with \lstinline|Tangible game material|.  
+        Lasty, we want to look at \lstinline|Facilitation| and \lstinline|Presupplied input| which are attributed to three effect clusters. 
+        \lstinline|Facilitation| can help to break existing habits and spark creativity by unblocking discussions and setting up an agenda. 
+        Additionally preparing the proper workspace, for example by ordering chairs like in a theatre stage, can help participants to move 
+        from their ordinary life to a game mindset \cite{brandtFacilitatingCollaborationDesign2004a,bunaesRulesPlayBalance2024}. 
+        \lstinline|Facilitation| can also hinder open-endedness of design game or enforce power relations when, for example certain topics are 
+        preselected without input from participants \cite{eriksenTakingDesignGames2014}.
+        \lstinline|Presupplied input| can help in multiple ways, it can spark creativity by introducting unforseen input or starting with 
+        a specific question or topic \cite{brandtDesigningExploratoryDesign2006,bunaesRulesPlayBalance2024} - in that way it also breaks 
+        existing habits \cite{bunaesRulesPlayBalance2024}. By setting the topic they create common ground and can also be used to hint or 
+        remind participants of certain domain methods or design approaches \cite{royCardbasedDesignTools2019, nymarkernstsenTechnologyCardsDesign2023}. 
+
+    \chapter{Design Games across different domains: From urban planning to anthropological fieldwork}
+
+    \chapter{Embedding Design Games in the Design Thinking Framework}
+        \section{Design Thinking: A methodological overview}
+        \section{Connecting Game mechanics to Design Thinking phases}
+
+    \chapter{Limitations of Design Games}
+    Inequalities in power relations. Game master and facilitator often from research team. 
+    Can influence discussion in a hidden way by predeciding which items to include and where 
+    to spend more time on \cite{eriksenTakingDesignGames2014}. 
+
+    Design games research strongly focused on western culture. Different cultures, for example 
+    south-east asian different power dynamics and hierarchies. Also a problem might be that 
+    players do not have any experience with games \cite{zhangAddressingCulturalInertias2024}. 
 
 \backmatter
 
@@ -468,7 +506,7 @@ No AI tools were used for creating this paper.
 \end{aitools}
 
 \begin{kitools}
-Keine
+Keine KI Werkzeuge wurden für die Erstellung dieser Arbeit verwendet.
 \end{kitools}
 
 % Use an optional list of figures.
