@@ -1,3 +1,46 @@
+[Tim Brown - Design Thinking - 2008]
+(Tim Brown is the CEO and president of IDEO)
+
+Design thinking _"is a discipline that uses the designer's sensibility and methods to match people's needs with what is technologically feasible and what a viable business strategy can convert into customer value and market opporunity"_. [p.3]
+
+Historically design has mainly played a role in making finished products aesthetically pleasing. In _design thinking_ design is part of the whole strategic process of coming up with new innovation. [p.3]
+
+Example 1: Improving hand-over processes at a hospital. Nurses, doctors, administrators were part of the workshops together with designers from IDEO. Together with nurses problems in current shift changes have been identified [p.3]. Potential solutions were explored through brainstorming and rapid prototyping. Prototypes must be tangible (e.g. service changes were videotaped). Prototyping must not be expensive (e.g. ad-hoc taping together simple everyday objects) and only take so much effort to get feedback for further developing an idea or identifying new directions for the next prototypes. [p.4]
+
+Example 2: Team began with a hunch on where it should focus. It set out to learn why customers behave as they did and spent time with all kinds of customers in doing so [p.5]. 
+Application of design thinking not only led to a product but to a complete solution [p.7]. 
+
+Design process is described as a "system of spaces" - differing from the typical linear and milestone based business process. Projects must pass through the three spaces: [p.5]
+- **Inspiration**: Problem, opportunity that motivate the search for solutions
+- **Ideation**: Generate, develop and test ideas
+- **Implementation**: Charting a path to market
+
+"Many of the world's most successful brands create breakthrough ideas that are inspired by a deep understanding of customers' lives and use the principles of design to innovate and build value" [p.7]
+
+"Great design satisfies both our needs and our desires" [p.8]. "Design thinking is a tool for imagining these experiences as well as giving them a desirable form". [p.9]. 
+
+(Wicked problems) have people at their heart. Design thinking is an approach to find a human-centered, creative, iterative and practical ideas for solutions. [p.10]
+
+---
+
+[[kimbellRethinkingDesignThinking2011]] - Kimbell - 2011
+Within _design thinking_ "Design" should provide more than design. [p.3]
+It is a human centered, iterative approach that focuses on understanding user needs, generating ideas and testing prototypes. It fosters multidisciplinary collaboration and questions the status quo by asking "what if?" questions. [p.4]
+
+What _design thinking_ is supposed to be is, however, not well understood. Generalizing  _design thinking_ among the diversity of designers' practice is questionable and for all "user-centeredness" the designer is still emphasized as the main agent. [p.6] 
+
+Research originates in the 1960s and focused on how designers design [p.6]. It gradually shifted into investigations to understand the practices by which designers went about designing [p.6]. Today _design thinking_ is most often used to focus on challenges businesses face and discussed within a managerialist framework [p.10]. Works do not draw on a research base, but despite that, gained legitimacy among a wide base of designers and organizations [p.11]. 
+Brown presented his findings as answer for organizations wanting to innovate and societies concerned with complex issues [p.11] While no academic sources are claimed, still concepts mirrors many findings from academia [p.11]. Particular emphasis is placed on seeing _design thinking_ as a human-centered activity. A successful outcome exist at the intersection of desirable from users, technically feasible and viable for the business [p.11]. His works however ignore how social scientists usually also question their own theoretical, political or other perspectives they themselves bring into the design process [p.12]. 
+Roger Martin focuses on what method successful managers used and how _design thinking_ gives businesses competitive advantage [p.12]. He sees _design _thinking_ as combining abductive, inductive and deductive reasoning. [p.12]. 
+
+Given the diversity there is no clear description of _design thinking_. [p.13]. 
+Different ways of describing it are: [p.14] 
+- **Design thinking as a cognitive style**: Focus on problem solving. Key concepts: Design ability as a form of intelligence, abductive thinking. (Schön, Cross, Dorst)
+- **Design thinking as a general theory of design**: Design as a field or discipline. Focus on taming wicked problems. (Buchanan)
+- **Design thinking as an organizational resource**: Focuses on businesses in need of innovation. Key concepts are: Visualization, prototyping, empathy, integrative thinking, abductive thinking. (Brown, Martin)
+
+---
+
 [[johansson-skoldbergDesignThinkingPresent2013a]]
 Proposes to discuss design thinking as two distinct discourses: 
 - _Designerly thinking_ is used to describe the research rooted in academia about the designers practice and theoretic discussions about it. 
@@ -5,13 +48,29 @@ Proposes to discuss design thinking as two distinct discourses:
 
 _Designerly thinking_ is rooted in over 50 years of academic research, with first resources mentioned in 1969 and a purely academic aim. Until Buchanan in 1992 a step-by-step approach with two distinct phases of problem definition, followed by problem solution, was the accepted model. Buchanan build on the older _wicked problem approach_ and suggested "placements" to contextualize design situations, allowing problem definition and solution to happen simultaneously. Buchanan further identified the four distinct areas of design thinking as _symbolic and visual communications_, _material objects_, _activities and organizational services_, _complex systems or environments for living, working, playing and learning_. [p.5]. Lawson and Cross in 2005 and 2011 derived practical, observation-based patterns from real-world experience, with Lawson suggesting a model of the design process as a series of process-driven steps and Cross framing it as a recursive strategy [p.5]. Krippendorff in 2006 initiated a "semantic turn" by defining design as the creation of meaning rather than physical artifacts. [p.6]
 
-_Design thinking_ as a management discourse appeared in the early 2000s. 
-IDEO, using its practical experience and partnership with the Standford University, rebranded itself as "an innovation company", introducing _design thinking_ into the academic innovation discourse as an alternative to strategic management models gaining traction in 2009 [p.7]. Design thinking grew in popularity as an innovation tool by making design methodologies accessible to non-designers and managers rather than limiting them to creative professionals [p.8]. This concept evolved through three different origins: IDEO’s published set of methodologies, work culture and infrastructure - labelled as _design thinking_ by the CEO Tim Brown [p.8]. Roger Martins description of _design thinking_ as a cycle of generating ideas (abduction), predicting consequences (deduction), and testing and generalizing (induction) [p.8]. 
+_Design thinking_ as a management discourse appeared in the early 2000's. 
+IDEO, using its practical experience and partnership with the Stanford University, re-branded itself as "an innovation company", introducing _design thinking_ into the academic innovation discourse as an alternative to strategic management models gaining traction in 2009 [p.7]. Design thinking grew in popularity as an innovation tool by making design methodologies accessible to non-designers and managers rather than limiting them to creative professionals [p.8]. This concept evolved through three different origins: IDEO’s published set of methodologies, work culture and infrastructure - labelled as _design thinking_ by the CEO Tim Brown [p.8]. Roger Martins description of _design thinking_ as a cycle of generating ideas (abduction), predicting consequences (deduction), and testing and generalizing (induction) [p.8]. 
+
+---
+[Design Thinking Comes of Age - Jon Kolko - 2015]
+_design thinking_ shift is about applying the principles of design to the way people work [p.4]. Businesses work with multiple complexities and need to make sense of them [p.4]. Best tool is _design thinking_, a set of principles - empathy, prototyping and tolerance for failure - among them [p.4]. 
+
+A design-centric culture is described as
+- **Focus on user experiences** Observing behavior to learn what people want and need, to build empathy with users [p.4]. 
+- **Create models to examine complex problems**: Physical models, known as _design artifacts_, are used to explore, define and communicate [p.4]. They allow for nonlinear thought when tackling problems [p.5.]. For example _customer journey map_ was used to understand veterans interactions with the VA [p.5]. 
+- **Use prototypes to explore potential solutions**: _journey maps_ explore **problem space**, prototypes explore **solution space**. [p.5]. Design companies use them as a way to communicate ideas and tend to iterate quickly [p.5]. 
+- **Tolerate failure**: Things are not created right the first time, teams close on the solution by iteratively experimenting and pivoting [p.5]
+- **Exhibit thoughtful restraint**: Solutions taking user needs in mind are also simpler than other [p.5]
+
+Challenges employing a design-centric process are:
+- **Accepting more ambiguity**: It is impossible to be certain how much value a better experience or mor innovation will bring [p.7]
+- **Embracing risk**: Transformation is risky and requires leaps of faith. There is no way to guarantee the outcome of innovative attempts [p.7]
+- **Resetting expectations**: _design_ is not the right tool for everything concerned operating a business [p.7]
 
 ---
 
 [[micheliDoingDesignThinking2019]]
-Notes that there is no generally accepted definition for _design thinking_ [p.2]. Among the literature some see it as organizational attribute, some focus on the traits at an individual level, some concentrate on tooling and some see it as (design) culture [p.2]. The term has varied origins, in academic writing many write about _designerly thinking_ while _design thinking_ established itself recently in management and is described as "an approach to innovation and creative problem-solving founded in designers' processes and practicses" [p.2]. **Performed a literature review.**
+Notes that there is no generally accepted definition for _design thinking_ [p.2]. Among the literature some see it as organizational attribute, some focus on the traits at an individual level, some concentrate on tooling and some see it as (design) culture [p.2]. The term has varied origins, in academic writing many write about _designerly thinking_ while _design thinking_ established itself recently in management and is described as "an approach to innovation and creative problem-solving founded in designers' processes and practices" [p.2]. **Performed a literature review.**
 
 Three definitions of _design thinking_ have been cited the most in literature [p.8]: 
 - (1) Brown 2008: design thinking is "a discipline that uses the designers' sensibility and methods to match people's needs with what is technologically feasible and what a viable business strategy can convert into customer value and market opportunity"
@@ -88,3 +147,22 @@ Cluster analysis based on the 10 attributes. creativity and innvoation was prese
 - **Emphasis on learning to think like a designer**: Cluster 5 emphasizes a holistic, gestalt perspective that blends analysis and intuition, advocating that this mindset should be taught in business schools despite skepticism about whether non-designers can truly master the craft.[p.18]
 
 ---
+[[pandeTheoreticalFoundationsDesign2020]] - Pande - 2020
+Buchanan in 1992 design eludes trying to be reduced to a set of processes and keeps its flexibility [p.2]. Brown writes about the impact of _design thinking_ in transforming products, services, processes and strategy [p.2]. Kolko mentions that the former process for designing products is now used to bring cultural change in organizations [p.2]. 
+
+Johansson et al. wrote that _design thinking_ is the best way to be innovative, while in design the method is taken for granted or ignored despite its long academic development [p.2]. Kumar take an example of how SAP Design Services team leveraged _design thinking_ to improve the organizations ability and evolve an approach for definition its strategic vision [p.2]. 
+
+---
+[What is Design Thinking and Why Is It So Popular? - Rikke Friis Dam - 2026]
+_"What’s special about Design Thinking is that designers’ work processes can help us systematically extract, teach, learn and apply these human-centered techniques to solve problems in a creative and innovative way—in our designs, in our businesses, in our countries, in our lives"_ [p.1]
+
+_"Design thinking is an iterative process in which you seek to understand your users, challenge assumptions, redefine problems and create innovative solutions which you can prototype and test"_ [p.1]
+
+Defines _design thinking_ as iterative and non-linear process with 5 phases:
+- **Empathize**: 
+- **Define**:
+- **Ideate**:
+- **Prototype**:
+- **Test**: 
+
+It allows to generate holistic and empathic understanding of a problem
