@@ -22,6 +22,11 @@ Design process is described as a "system of spaces" - differing from the typical
 (Wicked problems) have people at their heart. Design thinking is an approach to find a human-centered, creative, iterative and practical ideas for solutions. [p.10]
 
 ---
+[[brownDesignThinkingSocial2010]] - Design Thinking for social innvoation - Tim Brown - 2010
+
+
+
+---
 
 [[kimbellRethinkingDesignThinking2011]] - Kimbell - 2011
 Within _design thinking_ "Design" should provide more than design. [p.3]
@@ -50,6 +55,14 @@ _Designerly thinking_ is rooted in over 50 years of academic research, with firs
 
 _Design thinking_ as a management discourse appeared in the early 2000's. 
 IDEO, using its practical experience and partnership with the Stanford University, re-branded itself as "an innovation company", introducing _design thinking_ into the academic innovation discourse as an alternative to strategic management models gaining traction in 2009 [p.7]. Design thinking grew in popularity as an innovation tool by making design methodologies accessible to non-designers and managers rather than limiting them to creative professionals [p.8]. This concept evolved through three different origins: IDEO’s published set of methodologies, work culture and infrastructure - labelled as _design thinking_ by the CEO Tim Brown [p.8]. Roger Martins description of _design thinking_ as a cycle of generating ideas (abduction), predicting consequences (deduction), and testing and generalizing (induction) [p.8]. 
+
+---
+[[[RethinkingDesignThinking]] - Don Norman - 2013]
+Two powerful tools of _design thinking_: 
+- British Design Councils **Double-Diamond**: Diverge-Converge Model
+- **Human-Centered Design**: Iterative process of Observation, Ideation, Prototype and Test
+
+Designers often are to solve problems of which they know nothing about and thus come into the ability to ask "stupid questions". Stupid questions are those that question common beliefs that have been long established and for a long time not questioned. _"It is by questioning the obvious that we make great progress"_. _"People who know a lot about a field seldom think to question the fundamentals of their knowledge"_
 
 ---
 [Design Thinking Comes of Age - Jon Kolko - 2015]
@@ -153,7 +166,7 @@ Buchanan in 1992 design eludes trying to be reduced to a set of processes and ke
 Johansson et al. wrote that _design thinking_ is the best way to be innovative, while in design the method is taken for granted or ignored despite its long academic development [p.2]. Kumar take an example of how SAP Design Services team leveraged _design thinking_ to improve the organizations ability and evolve an approach for definition its strategic vision [p.2]. 
 
 ---
-[What is Design Thinking and Why Is It So Popular? - Rikke Friis Dam - 2026]
+[What is Design Thinking and Why Is It So Popular? - Rikke Friis Dam - 2026 - ixdf]
 _"What’s special about Design Thinking is that designers’ work processes can help us systematically extract, teach, learn and apply these human-centered techniques to solve problems in a creative and innovative way—in our designs, in our businesses, in our countries, in our lives"_ [p.1]
 
 _"Design thinking is an iterative process in which you seek to understand your users, challenge assumptions, redefine problems and create innovative solutions which you can prototype and test"_ [p.1]
@@ -165,4 +178,4 @@ Defines _design thinking_ as iterative and non-linear process with 5 phases:
 - **Prototype**:
 - **Test**: 
 
-It allows to generate holistic and empathic understanding of a problem
+It allows to generate holistic and empathic understanding of a problem, it considers quantitative and qualitative aspects. 
