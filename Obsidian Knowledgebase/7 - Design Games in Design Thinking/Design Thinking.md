@@ -1,3 +1,9 @@
+[[[buchananWickedProblemsDesign2026]] - Wicked Problems in Design Thinking - Buchanan - 1992]
+
+-- does not seem that helpful. Mainly concerns about describing in an abstract way how separate sciences / design forms share arguments and thus bases of design thinking. 
+
+---
+
 [Tim Brown - Design Thinking - 2008]
 (Tim Brown is the CEO and president of IDEO)
 
@@ -24,7 +30,16 @@ Design process is described as a "system of spaces" - differing from the typical
 ---
 [[brownDesignThinkingSocial2010]] - Design Thinking for social innvoation - Tim Brown - 2010
 
+"_Design thinking_ (...) adresses the needs of the people who will consume a product or service and the infrastructure that enables it".
 
+**David Kelley, founder of Stanford University's Hasso Plattner Institute of Design (d.school)*
+
+Design thinking is a process of overlapping spaces: 
+- **Inspiration**: Discover peoples need. Through observation better insights are obtained than focus groups or surveys. 
+- **Ideation**: Results of discovery are synthesized. **Divergent thinking** is important in this space. Better results are achieved by including diverse, multidisciplinary people. Brainstorming and visual representation of ideas are utilized. 
+- **Implementation**: Ideas from ideation are iterated upon using prototyping which are tested and refined. After finishing the prototype a communication strategy is also conceived by the design team. 
+
+The spaces are not followed in sequential but may be looped back towards and more than once. Usually **Inspiration** is the first phase in a new project however. 
 
 ---
 
@@ -160,10 +175,55 @@ Cluster analysis based on the 10 attributes. creativity and innvoation was prese
 - **Emphasis on learning to think like a designer**: Cluster 5 emphasizes a holistic, gestalt perspective that blends analysis and intuition, advocating that this mindset should be taught in business schools despite skepticism about whether non-designers can truly master the craft.[p.18]
 
 ---
+[[[DesignThinkingQuick2020]] - Internet Archive - 2020 Version - interaction design foundation]
+Describes the fundamental principles of _design thinking_ as: _Empathy_, _Reframing the problem_ to gain a more holistic look, _collaborative teamwork_ in a _multi-disciplinary_ team, employ _divergent thinking_ to explore possibilities and then later _convergent thinking_ to isolate potential solutions, rapidly modelling potential solutions and an iterative approach. 
+
+Core ingredients of _design thinking_ are _reframing_, _empathy_, _ideation_, _prototyping_ and _testing_ - of which one or more are present in all described varieties of _design thinking_ processes. 
+
+**Simons 1969** seminal work **The Sciences of the Artificial** seems to describe the design process as: _define_, _research_, _ideate_, _prototype_, _choose_, _implement_ and _learn_. 
+
+**IDEOs** first expression of this process was the "Deep-Dive": _Understand_, _Observe_, _Visualize_, _Evaluate_, _Implement_. IDEO now uses: _Inspire_, _Ideate_, _Implement_. 
+
+**Stanford Design School** (d.school), now known as Hasso Plattner Institute of Design teached _design thinking_ with the steps: _Understand_, _Improve_, _Apply_. They then moved to formulate their process as: _Empathise_, _Define_, _Ideate_, _Prototype_, _Test_. 
+
+**Design Council of the UK** uses a process: _Discover_, _Define_, _Develop_, _Deliver_. They defined and make use of the **Double Diamond diagram** that indicates 2 cycles of _divergent_ and _convergent_ thinking. 
+
+---
 [[pandeTheoreticalFoundationsDesign2020]] - Pande - 2020
 Buchanan in 1992 design eludes trying to be reduced to a set of processes and keeps its flexibility [p.2]. Brown writes about the impact of _design thinking_ in transforming products, services, processes and strategy [p.2]. Kolko mentions that the former process for designing products is now used to bring cultural change in organizations [p.2]. 
 
 Johansson et al. wrote that _design thinking_ is the best way to be innovative, while in design the method is taken for granted or ignored despite its long academic development [p.2]. Kumar take an example of how SAP Design Services team leveraged _design thinking_ to improve the organizations ability and evolve an approach for definition its strategic vision [p.2]. 
+
+----
+[[[kellyDesignThinkingComputational2021]] - Design thinking and computional thinking - Kelly - 2021]
+
+Term _design thinking_ has its foundation in research on how designers know, act and think [p.1]. The term has become ambiguous, former term is often also described as _designerly ways of knowing, thinking and acting_ and as _designerly thinking_ [p.2]. 
+
+It is know also used as shorthand for the set of tools, skills and mindsets that are suited for teaching non-designers how to approach problems in a _designerly_ way [p.3]. 
+
+Terms _design problems_ and _design thinking_ are related. Design is defined as "goal-oriented, constrained, decision-making, exploration and learning activity which operates within a context which depends on the designer's perception of the context" [p.3]. 
+
+The term of **frame** appears in _design_. Within the frame design activity is undertaken. A frame might be referred to as a _situation_. [p.3]. Different definitions of _frame_ can be linked to Simon 1969. Knowledge of a designer is not stored in "discrete abstract chunks waiting to be deployed" but instead, when faced with a design problem, a frame is constructed as "complex assemblage of interrelated knowledge" [p.4]. 
+
+Problems well suited for design thinking are those which frames with useful solutions need to be evolved in some way for a solution to become apparent. _Wicked problems_ are an example of this [p.4]. 
+
+In design schools students are taught how to think about the user and context about the design. This guides denote strategies that implicitly change the frame in a direction that is useful for moving towards a solution [p.5]. Many activities in _design thinking_ are oriented at "expanding the frame of understanding surrounding the problem" [p.8]. Design patterns might be used by the designer to do so [p.11]. 
+
+"A notable feature of design solutions is also that they are specific to the problem that they were created for" [p.5]. 
+
+---
+[[[crossDesignThinkingWhat2023a]] - Design thinking: What just happened - 2023 - Nigel Cross et. all]
+
+Critism authors voiced about _design thinking_ are that it privileges the role of the designer and preserves the current status [p.5]. The approach of 'social design' which is focused on physical artifacts can also draw away the focus from the problem which are things such as changes in policies or new systems of support. [p.5] 
+
+The design way of thinking has 3 foundational pillars: [p.5]
+- **empathy**: From participatory design, where users can become co-designers
+- **problem exploration**: Creative blend of _divergent_ and _convergent_ thinking
+- **making**: Knowledge and skills of transforming abstract into concrete by physical models and testing
+
+There are two interpretations of _design thinking_: Design Thinking 1 - the discussion rooted in academic literature about design, Design Thinking 2 (more recent and popular) - focused outside design domain, mostly in business [p.6-7]. Design Thinking 2 has drawn criticism, for example for its reliance on cookbook 'suggestions for actions' [p.7] but at the same time has become the general and widespread interpretation of _design thinking_ [p.8].  
+
+
 
 ---
 [What is Design Thinking and Why Is It So Popular? - Rikke Friis Dam - 2026 - ixdf]
