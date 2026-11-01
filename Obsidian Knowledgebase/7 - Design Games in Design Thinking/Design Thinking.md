@@ -96,6 +96,22 @@ Challenges employing a design-centric process are:
 - **Resetting expectations**: _design_ is not the right tool for everything concerned operating a business [p.7]
 
 ---
+[[[kolkoDivisivenessDesignThinking2018]] - The divisiveness of design thinking - kolko - 2018]
+
+Design has in the past mainly been something where the output can clearly be seen or touched [p.3]. The processes used have been designed "top down" [p.3]. When design decision are made "bottom up" the process is described as democratic and as closing the gap between designers and users [p.3]. Participatory design is thus described as _participation_ and _emancipatory practice_, involving all those who can be affected by the design [p.3]. 
+
+_vertical thinking_ and _lateral thinking_ is described. _Vertical thinking_ is a logical process [p.3]. _Lateral thinking_ is described as "looking at a situation from an unexpected and sometimes crazy perspective" [p.3]. An example is _brainstorming_ from Alex Osborn which characterized problem solving as playful, illogical and creative [p.3]. 
+
+Prototyping tools helped for example interface designers to test interfaces quickly [p.4]. An "ongoing match between the thing that's been designed and the people who are supposed to (..) experience it" is ensured by iteratively prototyping ideas and testing them [p.4]. 
+
+Pillars of _design thinking_ are described as
+- **Empathy**: Emerged from participatory design, "users stop being consumers of a design and instead become co-designers" [p.3]
+- **Problem exploration**: Combination of logical "vertical" or "linear thinking" and creative "illogical, divergent exploration" [p.4]
+- **Iterating on ideas**: Iteratively prototyping ideas and testing them with, learning from the result [p.4]. 
+
+Two camps of _design thinking_ exist. One is based in design school and the other by firms "practicing _design thinking_ by, well, thinking about things" [p.5]. 
+
+---
 
 [[micheliDoingDesignThinking2019]]
 Notes that there is no generally accepted definition for _design thinking_ [p.2]. Among the literature some see it as organizational attribute, some focus on the traits at an individual level, some concentrate on tooling and some see it as (design) culture [p.2]. The term has varied origins, in academic writing many write about _designerly thinking_ while _design thinking_ established itself recently in management and is described as "an approach to innovation and creative problem-solving founded in designers' processes and practices" [p.2]. **Performed a literature review.**
@@ -173,6 +189,10 @@ Cluster analysis based on the 10 attributes. creativity and innvoation was prese
 - **Emphasis on resilience in problem solving**: Cluster 3 highlights how design thinking serves as a cultural shift toward interdisciplinary collaboration and an increased tolerance for failure in complex environments, though debates continue regarding whether success requires professional design experience or simply a diverse mix of thinking styles. [p.18]
 - **Emphasis on seeing and reflecting upon the whole**: Cluster 4 focuses on individual cognitive processes, emphasizing how professional design education leverages visualization and a holistic, gestalt view to navigate iterative cycles of action and reflection. [p.18]
 - **Emphasis on learning to think like a designer**: Cluster 5 emphasizes a holistic, gestalt perspective that blends analysis and intuition, advocating that this mindset should be taught in business schools despite skepticism about whether non-designers can truly master the craft.[p.18]
+
+---
+[[[nhuShortcomingsDesignThinking2019]] - The Shortcomings of Design Thinking when Compared to Designerly Thinking - 2019]
+
 
 ---
 [[[DesignThinkingQuick2020]] - Internet Archive - 2020 Version - interaction design foundation]

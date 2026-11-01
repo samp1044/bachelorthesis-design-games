@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "127b4dce344643dc",
@@ -203,8 +204,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ae5f98d3f5a3a88",
+  "active": "3c16ccdbc3067286",
   "lastOpenFiles": [
+    "Papers/nhuShortcomingsDesignThinking2019.md",
+    "Papers/kolkoDivisivenessDesignThinking2018.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking",
     "7 - Design Games in Design Thinking/Design Games in Design Thinking.md",
     "7 - Design Games in Design Thinking/Design Thinking.md",
@@ -230,7 +233,6 @@
     "3 - Mechaniken in Design Games/Clustering/Come up with creative ideas.md",
     "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
     "3 - Mechaniken in Design Games/Clustering/Create common understanding.md",
-    "3 - Mechaniken in Design Games/Clustering/Leveling Hierarchies.md",
     "3 - Mechaniken in Design Games/Clustering"
   ]
 }
