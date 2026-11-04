@@ -193,6 +193,62 @@ Cluster analysis based on the 10 attributes. creativity and innvoation was prese
 ---
 [[[nhuShortcomingsDesignThinking2019]] - The Shortcomings of Design Thinking when Compared to Designerly Thinking - 2019]
 
+The paper builds on theoretical structure by Arbnor and Bjerke. 3 Categories for dividing the theoretical structure are suggested: 
+- **Methodological approach**: influences how a practitioner understands a problem and what tools and techniques they select
+- **Ultimate presumptions or collective paradigm**: Presumptions are how individuals view situations, people, objects and how they see their own role in respect to them
+- **Situated actions**: Methodological approaches help researchers select relevant tools and techniques, and to draw appropriate conclusions from their use.
+
+Many consultants and researches in the business community are ascribed to randomly select tools and techniques without considering methodological approach [p.6]
+
+Design thinking appeared around 2004 (early 2000s) [p.3]. Compared to designerly thinking, it has been criticized as lacking methodology [p.3]. Studies further showed that implementing _design thinking_ is hard [p.3]. 
+
+**Designerly thinking**
+_Designerly thinking_ is founded in design research. First defined as "creation of artefacts" (1969 Simon) efforts were made to establish a repeatable design methodology. Later **"wicked problems"** where defined as the core problems to concentrate on (1973 Rittel) [p.4]. Building on that **abductive reasoning** was introduced as problem solving method (Schön, Cross)[p.4]. 
+
+Paradigms of designerly thinking - 3 Key aspects: [p.8] 
+- **Wicked problems** as conception of reality. "Problems are understood as compelx, indeterminate and ill-defined" [p.8]. "They are characterized by incomplete, changing, contradictory and interdependent information, which is difficult to gather" [p.11]
+- **Abductive reasoning** as way of reasoning
+- **Contextual meaning making** as main value associated with _designerly thinking_ or "truth criterion". Primary goal is to create new artefacts that make sense in the context for which they are intended. Solution is measured based on the value it contributes to the context [p.11].
+
+Methodological approaches:
+- **Reflective practice** Allows utilize knowledge through "conversation with the situation" with shifts between "refection in action" and "reflection on action" [p.11]
+- **Co-development of problem and solution** Instead of linear problem statement -> solving, process is iterative suggesting and evaluation proposals, evolving a understanding of problem and solution [p.12]
+- **Framing**: During reflective practice: frame/reframing the design situation. Extend beyond context of the obvious. Discover if problem is a symptom of another problem "and eventually identify the core of both problem and solution" [p.12]
+- **Dialogue with the situation** Prototypes, models to capture tacit knowledge and transform them into testable proposals [p.12]. 
+- **Solution-led goal analysis** Focus on identifying the right solution instead of qualifying their goal [p.12]
+- **Modal shift** Designers rapidly shift attention between different tasks and types of activities [p.12].
+
+Tools and techniques: [p.13]
+- Some identified that can be divided into tools/techniques for **inquiring**, for **identifiying a direction (or framing)** and for **creating a solution**
+
+**Design thinking**
+_Design thinking_ was introduced as a "label" for IDEO's methods [p.4]. Following literature continued to elaborate on the iterative cycle of "proposal generation, prediction, testing and generalizing" [p.4].
+
+Central paradigms
+similar to _designerly thinking_
+- **Wicked or ill-defined problems** Has been adopted from works of key authors in _designerly thinking_ [p.13]
+- **Abductive reasoning** Most commonly applied reasoning [p.13]
+- **Contextual meaning making** As truth criterion. Addition frequent use of _empathy_, _human-centered_, _co-creation_ and _participatory design_ describe design as "meaning-making activity" [p.13] Design is measured based on value it offers to the context for which it is intended [p.13]. 
+
+Methodological approach (and suggestions for actions)
+- **Explorative learning** identified as core approach. Many variations exists, typically exemplified by continuous steps of inspiration, ideation and implementation (brown 2008) [p.14]
+
+Significant number of process models, perspective models and ways to organize work within design projects. Not really methodological approaches - did not focus on situating action in relation to problem situation [p.14]. Do not help practitioner to adapt tools to specific problem situation to ensure use of tools was aligned with the design thinking paradigm [p.14]. 
+
+Put them in own category -> "suggestions for actions": [p.14]
+- **Phase models**: Typically three to five steps with iterative setup. E.g. Inspiration, ideation, implementation. Most model
+- **Perspectives** Models that focus on different perspective that need to be taken into consideration. E.g. customer wants it, firm can produce it and economics can sustain it. 
+- **Organization**: Suggestions for how to best organize people, interactions and focuses during design thinking process [p.14].
+
+Tools and techniques: [p.14]
+- High number compared to _designerly thinking_, but not included in list
+
+**Comparison**
+_designerly thinking_ focuses on paradigms and methodological approaches - _design thinking_ focuses on "suggested actions", tools and techniques [p.15]. 
+
+Both have paradigms well defined. In _designerly thinking_ paradigms are often unfolded with links to methodological approaches. _design thinking_ focuses on comparing _design thinking_ paradigms to other paradigms. [p.15]. In comparison to _designerly thinking_, "suggestions for actions" are often described in **'cookbook format'**. [p.15]. 
+
+Aim of _designerly thinking_ is to establish itself as discipline [p.16] - aim of _design thinking_ is to export designers' ways of thinking to non-designers [p.16]. 
 
 ---
 [[[DesignThinkingQuick2020]] - Internet Archive - 2020 Version - interaction design foundation]
