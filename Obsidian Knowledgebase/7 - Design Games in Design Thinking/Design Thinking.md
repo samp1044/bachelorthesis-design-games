@@ -81,6 +81,7 @@ Designers often are to solve problems of which they know nothing about and thus 
 
 ---
 [Design Thinking Comes of Age - Jon Kolko - 2015]
+[[kolkoDesignThinkingComes]]
 _design thinking_ shift is about applying the principles of design to the way people work [p.4]. Businesses work with multiple complexities and need to make sense of them [p.4]. Best tool is _design thinking_, a set of principles - empathy, prototyping and tolerance for failure - among them [p.4]. 
 
 A design-centric culture is described as
@@ -91,7 +92,7 @@ A design-centric culture is described as
 - **Exhibit thoughtful restraint**: Solutions taking user needs in mind are also simpler than other [p.5]
 
 Challenges employing a design-centric process are:
-- **Accepting more ambiguity**: It is impossible to be certain how much value a better experience or mor innovation will bring [p.7]
+- **Accepting more ambiguity**: It is impossible to be certain how much value a better experience or more innovation will bring [p.7]
 - **Embracing risk**: Transformation is risky and requires leaps of faith. There is no way to guarantee the outcome of innovative attempts [p.7]
 - **Resetting expectations**: _design_ is not the right tool for everything concerned operating a business [p.7]
 
