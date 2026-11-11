@@ -17,7 +17,7 @@ Spaces are not followed sequential but may be looped back more than once. **Insp
 
 [[RethinkingDesignThinking]]
 [[Double-Diamond]] Model: From **British Design Council**. Diverge-Converge. 
-[[Human-Centered DEsign]]: Iterative process of Observation, Ideation, Prototype and Test
+[[Human-Centered Design]]: Iterative process of Observation, Ideation, Prototype and Test
 
 [[[kolkoDesignThinkingComes]] of Age - 2015]
 Best tool is _design thinking_, a **set of principles - empathy, prototyping and tolerance for failure** - among them [p.4]. 
@@ -143,3 +143,15 @@ The design way of thinking has 3 foundational pillars: [p.5]
 - **empathy**: From participatory design, where users can become co-designers
 - **problem exploration**: Creative blend of _divergent_ and _convergent_ thinking
 - **making**: Knowledge and skills of transforming abstract into concrete by physical models and testing
+
+[[[DesignThinkingIDEO]] - 2026 - Snapshot of Website]
+Defines Process as phases. Basis is creating choices (divergent thinking) and making choices (convergent thinking). 
+
+Phases are:
+- **Frame the question** Identify the right problem to solve for. Often using "How might we ..?"
+- **Gather inspiration** Observe, interview and immerse in experience. Deep understanding of people and context.
+- **Synthesize for action** Sort, cluster and connect insights. Making sense of what was learned to uncover opportunities. 
+- **Generate ideas** Brainstorm, explore many directions. Creative exploration. 
+- **Make ideas tangible** Build prototypes
+- **Test to learn** Test prototypes, gather feedback
+- **Share the story** Articulate need, process and value of the solution to help others understand and adopt your work. 

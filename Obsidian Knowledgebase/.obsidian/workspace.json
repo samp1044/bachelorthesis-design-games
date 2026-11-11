@@ -4,55 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "049653c330f1b3e8",
+        "id": "345aabfaed2a5019",
         "type": "tabs",
         "children": [
           {
-            "id": "8df43618047ec2d0",
+            "id": "55587b99c76e50e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Design Games in Design Thinking/Design Thinking.md",
+                "file": "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Thinking"
+              "title": "Design Thinking Process"
+            }
+          },
+          {
+            "id": "70b5d3332f110698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Design Games in Design Thinking/Synthesis Design Thinking/AI Note on how to approach this.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Note on how to approach this"
             }
           }
         ]
       },
       {
-        "id": "42ba5366e74f17c0",
+        "id": "93b2da6c9b9647e4",
         "type": "tabs",
         "children": [
           {
-            "id": "03c185341090ad32",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e9403bc1831f2790",
+            "id": "1de54eadbc54c178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking.md",
+                "file": "7 - Design Games in Design Thinking/Synthesis Design Thinking/AI Note on how to approach this.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Thinking"
+              "title": "AI Note on how to approach this"
+            }
+          },
+          {
+            "id": "301f1eeb2f6938e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/Design Thinking Process per Phase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Thinking Process per Phase"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,35 +236,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "8df43618047ec2d0",
+  "active": "1de54eadbc54c178",
   "lastOpenFiles": [
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/Design Thinking Process per Phase.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/AI Note on how to approach this.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Process.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/4  Iterative Prototyping and Testing.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/3 Generate Ideas multidisciplinary.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/2 Synthesize and re-frame Redefine the problem.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/1 Explore and empathize with the Problem, the Context and the people.md",
+    "Papers/micheliDoingDesignThinking2019.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/5 Transfer, Storytelling, and Implementation.md",
+    "Papers/RethinkingDesignThinking.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Attempts.md",
+    "Human-Centered Design.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Challenges.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking vs Designerly Thinking.md",
+    "7 - Design Games in Design Thinking/Design Games in Design Thinking.md",
+    "Papers/DoubleDiamondDesign.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Designerly Thinking Process.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Process per Aim.md",
+    "Papers/DesignThinkingIDEO.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking.md",
     "7 - Design Games in Design Thinking/Design Thinking.md",
-    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Challenges.md",
-    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Process.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Designerly Thinking.md",
-    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Designerly Thinking Process.md",
     "Papers/kolkoDesignThinkingComes.md",
     "Papers/johansson-skoldbergDesignThinkingPresent2013a.md",
-    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking vs Designerly Thinking.md",
-    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Attempts.md",
-    "7 - Design Games in Design Thinking/Design Games in Design Thinking.md",
     "3 - Mechaniken in Design Games/Clustering/Learn about particpants - Empathy.md",
     "Papers/nhuShortcomingsDesignThinking2019.md",
-    "Papers/kolkoDivisivenessDesignThinking2018.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking",
-    "Papers/buchananWickedProblemsDesign2026.md",
-    "Papers/kellyDesignThinkingComputational2021.md",
-    "Papers/crossDesignThinkingWhat2023a.md",
-    "Papers/DesignThinkingQuick2020.md",
-    "Papers/brownDesignThinkingSocial2010.md",
-    "Papers/hollowayHowTangibleYour2009.md",
-    "Papers/RethinkingDesignThinking.md",
-    "Papers/pandeTheoreticalFoundationsDesign2020.md",
-    "Papers/kimbellRethinkingDesignThinking2011.md",
-    "Papers/template.md",
-    "Papers/micheliDoingDesignThinking2019.md",
-    "3 - Mechaniken in Design Games/Mechaniken in Design Games.md",
     "3 - Mechaniken in Design Games/Clustering"
   ]
 }
