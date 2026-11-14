@@ -26,3 +26,11 @@ Stanford d.school:
 
 IBM:
 - **Understand**
+
+[[crossDesignThinkingWhat2023a]]
+3 foundational pillars
+- **Problem exploration** (Convergent thinking)
+
+[[DesignThinkingIDEO]]
+Defines Process as phases. Basis is creating choices (divergent thinking) and making choices (convergent thinking).
+- **Synthesize for action**

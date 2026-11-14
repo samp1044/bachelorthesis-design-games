@@ -1,0 +1,3 @@
+[[micheliDoingDesignThinking2019]]
+Through a systematic literature review and following card sorting exercise 10 attributes of _design thinking_ have been identified [p.7] 
+- **Iteration and experimentation**: _Design thinking_ utilizes an iterative, trial-and-error approach to solve problems. Tangible prototypes, mocks and sketches are used to experimentally explore ideas and get feedback from stakeholders. 

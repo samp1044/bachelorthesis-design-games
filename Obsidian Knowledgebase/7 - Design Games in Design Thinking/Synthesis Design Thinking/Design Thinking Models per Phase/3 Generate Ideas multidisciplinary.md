@@ -16,3 +16,7 @@ Stanford d.school:
 
 IBM:
 - **Explore**
+
+[[DesignThinkingIDEO]]
+Defines Process as phases. Basis is creating choices (divergent thinking) and making choices (convergent thinking).
+- **Generate ideas**

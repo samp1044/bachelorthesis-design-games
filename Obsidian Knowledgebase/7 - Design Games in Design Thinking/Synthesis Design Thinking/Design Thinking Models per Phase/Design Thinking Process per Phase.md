@@ -1,3 +1,5 @@
+Managerial Design Thinking as Structural Framework (Could be seen as "when")
+
 Cluster Ideas:
 1. Explore and empathize with the Problem, the Context and the people (Dominant Divergent Thinking)
 2. Synthesize and re-frame/Redefine the problem (Dominant Convergent Thinking)
@@ -11,6 +13,8 @@ From [[micheliDoingDesignThinking2019]]: The models share a common core structur
 
 From [[nhuShortcomingsDesignThinking2019]]
 Nhu (2019) observes that managerial design thinking translates academic theory into practical **"suggestions for actions"**, which split into three distinct types: _Phase models_, _Perspectives_ (desirability, feasibility, viability), and _Organization_ (structuring people and interactions).
+
+_A cookbook tells teams _when_ to do something, but it strips away the deep cognitive skills needed to actually pull it off_
 
 - **How to write this:** State explicitly that your 4–5 synthesized clusters are derived from the **Phase models** category. Explain that while managerial authors present these phase models in a simplified **"cookbook format"** (typically 3 to 5 iterative steps), clustering them by cognitive aim (divergent vs. convergent) strips away brand-specific jargon and exposes their shared structural timeline (the **"When"**).
 
