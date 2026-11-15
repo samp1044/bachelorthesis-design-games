@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/rittelDilemmasGeneralTheory1973.md",
+                "file": "Papers/schonReflectivePractitionerHow2009.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rittelDilemmasGeneralTheory1973"
+              "title": "schonReflectivePractitionerHow2009"
             }
           },
           {
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "127b4dce344643dc",
@@ -315,8 +316,10 @@
   },
   "active": "47cacee5f31e0eee",
   "lastOpenFiles": [
-    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Designerly Capabilities/Contextual meaning making activity.md",
+    "Reflection-in-action.md",
+    "Papers/schonReflectivePractitionerHow2009.md",
     "Papers/rittelDilemmasGeneralTheory1973.md",
+    "7 - Design Games in Design Thinking/Synthesis Design Thinking/Designerly Capabilities/Contextual meaning making activity.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Process.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Designerly Capabilities/Abductive Thinking.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Designerly Capabilities/Wicked Problems.md",
@@ -340,8 +343,6 @@
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/3 Generate Ideas multidisciplinary.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase/2 Synthesize and re-frame Redefine the problem.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Designerly Capabilities",
-    "Papers/micheliDoingDesignThinking2019.md",
-    "Papers/RethinkingDesignThinking.md",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking/Design Thinking Models per Phase",
     "7 - Design Games in Design Thinking/Synthesis Design Thinking",
     "3 - Mechaniken in Design Games/Clustering"

@@ -16,7 +16,25 @@ Goal Formulation: Must look at our objectives as critically as we look at our mo
 
 Problem Definition: During industrial age, idea of planning was dominated by the pervasive idea of efficiency. Was fairly easy to get consensus on nature of problems in this period. Task could be assigned to the technically skilled. Recent years have been learning to ask whether what we are doing is the right thing to do. Have been learning to ask questions about the outputs of actions (not the reduction of resource inputs to a problem). Have learned that outputs of one systems may be inputs of another systems and learned to expand the boundaries of the systems we deal with. 
 
-Planning Problems are Wicked Problems: 
+Planning Problems are Wicked Problems: Classical paradigm of science and engineering is not applicable to the problems of open societal systems. Problems in science are definable and have solutions that are findable. Problems of planning are ill-defined, rely on political judgment for resolution (not solution). They are never solved. 
+
+_No definitive formulation of wicked problems:_
+For tame problems all information needed for understanding and solving the problem can be stated. For wicked problems the information needed to understand the problem depends on ones idea for solving it. If one can formulate the problem by tracing it to some sort of its sources, then we have thereby also formulated a solution. (e.g. tracing proverty to mental health issues to lack of therapists -> then increase amount of therapists is also a solution) - In contrast to usual systems engineering that usually have an enumeration of the phases: "understand the problem", "gather information", "analyze information", "synthesize information", "work out solution". 
+
+_Wicked problems have no stopping rule:_
+In linear problems the problem-solver knows when the problem is solved. In planning problems a planner can always try to do better. He instead stops for considerations that are external to the problem - run out of time, or money, or patience. 
+
+_Solutions are not true or false but good or bad_
+
+_Every solution to a wicked problem is basically irreversible_
+
+_Wicked problems have no exhaustive list of possible solutions_: Might happen that no solution is found at all. 
+
+_Every wicked problem is essentially unique_ 
+
+_Every wicked problem can be considered a symptom of another problem_
+
+_Planner has no right to be wrong_ Solutions cannot easily be refuted later like hypotheses in science. Every solution directly effects people's life. 
 
 ---
 **Verknüpfte Konzepte:**
