@@ -1,3 +1,7 @@
+[[weedonCoreKeesDorsts2019]]
+Problem Framing introduced by Dorst, K. 
+Problems are not fully defined from the start. Instead the Problem and its Solution coevolve in an iterative process. Design challenges often involve conflicting yet valid truths, Dorst proposes to see them as paradoxes. Using his Frame Creation Model and abductive reasoning, designers begin with a desired core value and explore the broader context to uncover underlying themes. By reframing the situation and mapping relationships from one domain to another designers shift their focus and think about complex, wicked problems from fresh, illuminating perspectives. 
+
 [[johansson-skoldbergDesignThinkingPresent2013a]]
 Buchanan build on the older _wicked problem approach_ and suggested "placements" to contextualize design situations, allowing problem definition and solution to happen simultaneously.
 

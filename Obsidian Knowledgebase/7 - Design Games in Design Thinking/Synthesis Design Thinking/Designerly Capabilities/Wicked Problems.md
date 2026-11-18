@@ -1,3 +1,6 @@
+[[rittelDilemmasGeneralTheory1973]]
+Planning deals with wicked problems. Even defining the problem is not wholly possible. Searching for a cause equals searching for a solution. There is no right or wrong solution, only good or bad ones. There is no definitive point that marks when a problem is resolved. Every solution always directly affects peoples life and is thus basically irreversible. Each problem is unique. 
+
 [[buchananWickedProblemsDesign2026]]
 Concerns about describing in an abstract way how to separate sciences / design forms share arguments and thus bases of design thinking. 
 
