@@ -487,9 +487,9 @@
     \chapter{Embedding Design Games in the Design Thinking Framework}
         Design Thinking is divided into two distinct bodies of research. Originally rooted in over 50 years of 
         academic research \cite{johansson-skoldbergDesignThinkingPresent2013a} it originally focused on investigating 
-        how designers design \cite{kimbellRethinkingDesignThinking2011}. Following works focused on defining "Wicked Problems" 
+        how designers design \cite{kimbellRethinkingDesignThinking2011}. Following works introduced "Wicked Problems" 
         as the core problems of Design \cite{nhuShortcomingsDesignThinking2019} and Planning \cite{rittelDilemmasGeneralTheory1973}. 
-        Abductive Reasoning and Refleciton-in-Action were introduced as paradigms \cite{nhuShortcomingsDesignThinking2019, schonReflectivePractitionerHow2009}. 
+        Abductive Reasoning and Reflection-in-Action were introduced as paradigms \cite{nhuShortcomingsDesignThinking2019, schonReflectivePractitionerHow2009}. 
         In the 1990s Buchanan build on the "Wicked Problems" approach and replaced the, until then state-of-the-art, two step 
         model of problem definition followed by problem solution - with placements allowing problem definition and solution 
         to evolve simultaneously \cite{johansson-skoldbergDesignThinkingPresent2013a}. Building on that, problem-framing was 
@@ -499,20 +499,88 @@
 
         Appearing in the 2000s Design Thinking started also as a managerial discourse \cite{johansson-skoldbergDesignThinkingPresent2013a}, 
         getting popular in 2009 with articles from Tim Brown describing the Design Process used at the IDEO company 
-        \cite{johansson-skoldbergDesignThinkingPresent2013a, brownDesignThinkingSocial2010}. Other models joined with the 
-        Double Diamond from the British Design Council \cite{HistoryDoubleDiamond} and the model of the Stanford Design School 
-        (d.school) being two examples of many \cite{micheliDoingDesignThinking2019}. Articels from the managerial discourse often 
-        lack connection to the academic research in Designerly Thinking, thus being critized by many authors 
-        \cite{johansson-skoldbergDesignThinkingPresent2013a,nhuShortcomingsDesignThinking2019}. However, central concepts 
-        can be connected with the academic side of the Design Thinking discourse and some authors attempt to connect the two bodies 
-        of literature \cite{nhuShortcomingsDesignThinking2019}. 
+        \cite{johansson-skoldbergDesignThinkingPresent2013a, brownDesignThinkingSocial2010}. Brown described the design process as 
+        iterative process through the phases Inspiration, Ideation, Implementation \cite{brownDesignThinkingSocial2010}. Other authors 
+        described similar models, for example the Double Diamond from the British Design Council \cite{HistoryDoubleDiamond} and the model of the Stanford Design School 
+        (d.school) being two examples of many \cite{micheliDoingDesignThinking2019}. Those models are phase models and in general presented 
+        in "cookbook"-like format, also described as "suggestions-for-actions" \cite{nhuShortcomingsDesignThinking2019}. Apart from phase models, 
+        other variants of this "cookbook"-like format in the managerial discourse of Design Thinking are models focusing on the perspective 
+        designers can take (e.g. Desirability, Feasability, Viability) or the organization of participants and interactions during the 
+        Design Thinking process \cite{nhuShortcomingsDesignThinking2019}.
+
+        Design Thinking coming from the managerial discourse is frequently critized and in general lacks connection to the academic 
+        research present in Designerly Thinking \cite{johansson-skoldbergDesignThinkingPresent2013a,nhuShortcomingsDesignThinking2019}. 
+        However some connection can be found focusing on central concepts present in both bodies of research \cite{nhuShortcomingsDesignThinking2019}. 
         
-        %TODO ^ missing different models -> Phase models, viability etc., organizational models.
+        In order to connect Design Games to the greater concept of Design Thinking this paper attempts to connect phase models synthesized 
+        from the managerial Design Thinking literature to concepts of Designerly Thinking research. Using concepts from Designerly Thinking as a 
+        lens, Design Games are connected based on the underlying Mechanics and the Designerly Thinking concept they support. 
+        
+        \section{Clustering Design Thinking phase models}
+            Focusing on phase models \cite{nhuShortcomingsDesignThinking2019}, an attempt was made to cluster the often cited models from \textit{IDEO} 
+            \cite{brownDesignThinkingSocial2010}, \textit{Double Diamond} \cite{DoubleDiamondDesign}, \textit{d.school} \cite{micheliDoingDesignThinking2019} 
+            and \textit{IBM} \cite{micheliDoingDesignThinking2019}. 
 
-        In order to connect Design Games to the greater concept of Design Thinking this paper also attempts to connect phase models 
-        from the Design Thinking literature to concepts of Designerly Thinking research. Using concepts from Designerly Thinking as a 
-        filtering lens, extracted Mechanics of Design Games are attributed to the Designerly Concept they support. 
+            Most phase models share common steps \cite{micheliDoingDesignThinking2019} and  where thus clustered into the four clusters: 
+             \textit{(1) Explore and empathize with the problem, the context and the people}, \textit{(2) Synthesize and redefine the problem}, 
+            \textit{(3) Generate ideas multidisciplinary}, \textit{(4) Iterative prototyping and testing}. 
 
+            Model steps where attributed to clusters based on the tasks or aim within the step (for example: discover peoples needs) and along 
+            the dominant thinking method (\textit{divergent thinking} or \textit{convergent thinking}) \cite{kolkoDivisivenessDesignThinking2018}. 
+
+            Table~\ref{tab:processmodels} provides an overview of how the identified process models are mapped to the defined clusters. The clusters 
+            are explained in more detail below. 
+
+            \begin{table}
+                \rowcolors{2}{white}{gray!10} 
+                \renewcommand{\tabularxcolumn}[1]{m{#1}} % Vertically centers X columns
+                \begin{tabularx}{\textwidth}{c|*{4}{>{\centering\arraybackslash}X}}
+                    \toprule
+                        Cluster
+                        & IDEO
+                        & Double Diamond
+                        & Stanford d.school
+                        & IBM \\
+                    \midrule
+                        1 & Inspiration & Discover & Empathy & Understand \\
+                        2 & Inspiration,\newline Ideation & Define & Define & Understand \\
+                        3 & Ideation & Develop & Ideate & Explore \\
+                        4 & Implementation & Deliver & Prototype,\newline Test & Prototype,\newline Evaluate \\
+                    \bottomrule
+                \end{tabularx}
+                \caption{Identified process models and their mapping to clusters.}
+                \label{tab:processmodels}
+            \end{table}
+
+            \subsubsection{(1) Explore and empathize with the problem, the context and the people}
+                The dominant thinking in this cluster is \textit{divergent thinking}. Included steps are \textit{Inspiration} from 
+                \cite{brownDesignThinkingSocial2010} where the aim is to discover peoples needs, \textit{Discover} from 
+                \cite{DoubleDiamondDesign} where the aim is to understand the problem and spend time with the people affected by it, 
+                \textit{Empathy} and \textit{Understand} from \cite{micheliDoingDesignThinking2019}. 
+
+            \subsubsection{(2) Synthesize and redefine the problem}
+                The dominant thinking in this cluster is \textit{convergent thinking}. Included steps are \textit{Inspiration} from 
+                \cite{brownDesignThinkingSocial2010} where the aim is to construct and reframe the problem brief, as well as 
+                \textit{Ideation} from \cite{brownDesignThinkingSocial2010} with the aim of synthesis of what was learned on the field. 
+                Further included are \textit{Define} from \cite{DoubleDiamondDesign} with the aim of redefining the challenge based 
+                on discoveries in \textit{Discover}, \textit{Define} and \textit{Understand} from \cite{micheliDoingDesignThinking2019}. 
+
+            \subsubsection{(3) Generate ideas multidisciplinary}
+                The dominant thinking in this cluster is \textit{divergent thinking}. Included steps are \textit{Ideation} from 
+                \cite{brownDesignThinkingSocial2010} where ideas are explored multidisciplinary (for example using brainstorming), 
+                \textit{Develop} from \cite{DoubleDiamondDesign} where different answers to the defined problem are encoured, 
+                inspiration can be sought from other solution and co-design is to happen multidisciplinary. Further steps inlcuded 
+                are \textit{Ideate} and \textit{Explore} from \cite{micheliDoingDesignThinking2019}. 
+
+            \subsubsection{(4) Iterative prototyping and testing)}
+                The dominant thinking in this cluster is \textit{convergent thinking}. Included steps are \textit{Implementation} 
+                from \cite{brownDesignThinkingSocial2010} where prototyping is at the core, ideas are turned into products, iterated 
+                and refined - \textit{Deliver} from \cite{DoubleDiamondDesign} where multiple solutions are to be tested and iterated 
+                upon. Further steps included are \textit{Prototype} and \textit{Test} from \textit{d.school} and \textit{Prototype} and 
+                \textit{Evaluate} from \textit{IBM} \cite{micheliDoingDesignThinking2019}. 
+
+        \section{Connecting Design Thinking clusters to Designerly Thinking concepts}
+            
 
         \section{Design Thinking: A methodological overview}
         
