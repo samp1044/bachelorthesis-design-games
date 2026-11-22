@@ -11,3 +11,13 @@ Through a systematic literature review and following card sorting exercise 10 at
 [[nhuShortcomingsDesignThinking2019]]
 Central paradigms similar to _designerly thinking_:
 - **Abductive reasoning** Most commonly applied reasoning [p.13]
+
+----
+-> [[3 Generate Ideas multidisciplinary]]
+- Focus on problem solving [[kimbellRethinkingDesignThinking2011]]
+- Imagines what might be [[micheliDoingDesignThinking2019]]
+- Generates new knowledge by reframing existing assumptions to find best possible explanation or solution [[micheliDoingDesignThinking2019]]
+- Most commonly applied reasoning [[nhuShortcomingsDesignThinking2019]]
+
+
+- Abductive thinking = assertion-based thinking that "imagines what might be rather than analyzing based on evidence of what is" -> Matches the goal of exploring many possibilities and generating new ideas (divergent) [[micheliDoingDesignThinking2019]]

@@ -6,3 +6,9 @@
 Through a systematic literature review and following card sorting exercise 10 attributes of _design thinking_ have been identified [p.7] 
 - **Blending rationality and intuition**: Rather than replacing analytical logic, _design thinking_ dynamically blends rational, evaluative research with intuitive insights to drive innovation. 
 
+---
+-> [[4  Iterative Prototyping and Testing]]
+- Reflection-in-action: practitioner interacting with a situation, encountering a surprise, and adjusting on the fly. Prototyping provides the concrete object that "talks back" to the designer, triggering shifts between intuitive making and rational analysis [[schonReflectivePractitionerHow2009]]
+- Blending rationality and intuition -> testing, iterating, refining - with analytical evaluation of user feedback alongside intuitive fixes of what is not working [[micheliDoingDesignThinking2019]]
+
+Testing prototypes lets intuitive design choices collide with rational user data and empirical reality. 

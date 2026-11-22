@@ -15,3 +15,8 @@ hrough a systematic literature review and following card sorting exercise 10 att
 [[nhuShortcomingsDesignThinking2019]]
 Central paradigms similar to _designerly thinking_:
 - **Wicked or ill-defined problems** Has been adopted from works of key authors in _designerly thinking_ [p.13]
+
+---
+-> [[1 Explore and empathize with the Problem, the Context and the people]]
+- Wicked problems are ill-defined and unique - cannot start with a specification - have to immerse in the messy human context first to understand the competing stakeholder perspectives [[rittelDilemmasGeneralTheory1973]]
+- Wicked problems have no boundary - requires broad, divergent exploration to map stakeholders whose live will be effected before attempting any framing [[rittelDilemmasGeneralTheory1973]]

@@ -8,3 +8,13 @@ Buchanan build on the older _wicked problem approach_ and suggested "placements"
 [[micheliDoingDesignThinking2019]]
 Through a systematic literature review and following card sorting exercise 10 attributes of _design thinking_ have been identified [p.7] 
  - **Gestalt view**: _Design thinking_ incorporates an integrative approach that considers the context and systems in which a problem exists. It enables _design thinkers_ gain deeper understanding of a problems context and to challenge the problem statement, incorporating insights already gained into the reformulation of it.
+
+---
+-> [[2 Synthesize and re-frame Redefine the problem]]
+- Gestalt view: "challenging the problem statement", "reformulation of it" [[micheliDoingDesignThinking2019]]
+- Frame Creation Model: Moving from raw, conflicting insights in (1) to uncover underlying themes and core values [[weedonCoreKeesDorsts2019]] 
+- Framing and Placing happens in this step
+
+Iterative concept
+Testing ideas often reveals flaws in framing and iterates back tho [[2 Synthesize and re-frame Redefine the problem]] to reformulate the problem statement. 
+- Placements [[johansson-skoldbergDesignThinkingPresent2013a]]: Coevolution of problem and solution.  
