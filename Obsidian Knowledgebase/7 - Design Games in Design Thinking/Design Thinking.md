@@ -138,6 +138,10 @@ Two camps of _design thinking_ exist. One is based in design school and the othe
 [[micheliDoingDesignThinking2019]]
 Notes that there is no generally accepted definition for _design thinking_ [p.2]. Among the literature some see it as organizational attribute, some focus on the traits at an individual level, some concentrate on tooling and some see it as (design) culture [p.2]. The term has varied origins, in academic writing many write about _designerly thinking_ while _design thinking_ established itself recently in management and is described as "an approach to innovation and creative problem-solving founded in designers' processes and practices" [p.2]. **Performed a literature review.**
 
+"Roger Martins The Design of Business (2009) views that design thinking is rooted in abductive reasoning and the capacity to blend rationality and analysis with intuition and synthesis". [p.5]. "Buchanan 1992 highlights design's distinctiveness from natural and social sciences, and argues for design thinking's capacity to question current states, conceive what does not exist, and help address 'wicked problems'" [p.6]
+
+-- Further analysis mainly centers around synthesis from Design Thinking -- 
+
 Three definitions of _design thinking_ have been cited the most in literature [p.8]: 
 - (1) Brown 2008: design thinking is "a discipline that uses the designers' sensibility and methods to match people's needs with what is technologically feasible and what a viable business strategy can convert into customer value and market opportunity"
 - (2) Lockwood 2010: design thinking is "a human-centered innovation process that emphasizes observation, collaboration, fast learning, visualization of ideas, rapid concept prototyping, and concurrent business analysis"
@@ -208,9 +212,18 @@ Essential design thinking tools and methods found: [p.13]
 Cluster analysis based on the 10 attributes. creativity and innvoation was present in all literature. user centeredness, problem solving, iteration and experimentation was present in 60% of artices. Those attributes have thus been excluded. Of the remaining 6 attributes, the following five clusters have been formed. These can be seen **to represent five perspectives on design thinking literature** [p.15]
 - **Emphasis on interdisciplinary collaboration**: Cluster 1 highlights design thinking as an interdisciplinary team sport that breaks down organizational silos by training all employees to use design methods. Advocates argue that this scalable problem-solving methodology can be applied across any industry or context. However, critics note that widespread claims of its positive organizational impact remain largely speculative and lack empirical evidence. [p.16-17]
 - **Emphasis on reclaiming design thinking as designers domain**: Cluster 2 advocates for reclaiming design thinking as a professionally trained skillset, arguing that core attributes like visualization cannot be separated from actual design practice. Authors in this group challenge the management-led idea that design thinking can easily be uncoupled from "design doing" or successfully adopted by non-designers without formal training. [p.17]
+  
+  "Emphasizes four attributes of design thinking: abductive reasoning, the ability to visualize, interdisciplinary collaboration, and tolerance for ambiguity and failure. Largely written by nonmanagement authors, tends to advance critical views" [p.17]. 
+  
 - **Emphasis on resilience in problem solving**: Cluster 3 highlights how design thinking serves as a cultural shift toward interdisciplinary collaboration and an increased tolerance for failure in complex environments, though debates continue regarding whether success requires professional design experience or simply a diverse mix of thinking styles. [p.18]
 - **Emphasis on seeing and reflecting upon the whole**: Cluster 4 focuses on individual cognitive processes, emphasizing how professional design education leverages visualization and a holistic, gestalt view to navigate iterative cycles of action and reflection. [p.18]
+  
+  "Emphasize ability to visualize and a gestalt view of problems. Dalsgaard 2014: states 'to address wicked problems, designers move through iterative phases of thinking and doing, or action and reflection in the terminology of Schön' [p.18]"
+  
 - **Emphasis on learning to think like a designer**: Cluster 5 emphasizes a holistic, gestalt perspective that blends analysis and intuition, advocating that this mindset should be taught in business schools despite skepticism about whether non-designers can truly master the craft.[p.18]
+
+Theoretical implications:
+"According to Schön, knowing is in our actions. An ambiguous situation 'comes to be understood through the attempt to change it, and changed through the attempt to understand it'. From this point of view, design thinking can be conceptualized as a reflective 'conversation' with a situation or problem, and depending upon designer's appreciative systems - rooted in their experiences, images, and understandings - which allow framing and re-framing of problems and inform action" [p.20]
 
 ---
 [[[nhuShortcomingsDesignThinking2019]] - The Shortcomings of Design Thinking when Compared to Designerly Thinking - 2019]
